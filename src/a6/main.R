@@ -1,0 +1,8 @@
+data <- read.csv("ü6/covid_19_daily_reports_11-21-2021.csv", header = TRUE, sep = ";")
+gdata <- subset(data, Country_Region == "Germany")
+print("Deutsche Einträge:")
+print(gdata)
+print("Arithmetisches Mittel best. Fälle:")
+sum(gdata$Confirmed) / nrow(gdata)
+print("Arithmetisches Mittel Tode:")
+sum(gdata$Deaths) / nrow(gdata)

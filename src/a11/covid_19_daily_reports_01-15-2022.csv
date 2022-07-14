@@ -1,0 +1,3971 @@
+"Province_State";"Country_Region";"Confirmed";"Deaths"
+"Afghanistan";"Afghanistan";158678;7378
+"Albania";"Albania";230940;3265
+"Algeria";"Algeria";225484;6404
+"Angola";"Angola";93524;1857
+"Argentina";"Argentina";7029624;117989
+"Australian Capital Territory";"Australia";22396;18
+"New South Wales";"Australia";773447;866
+"Northern Territory";"Australia";6000;2
+"Queensland";"Australia";214602;29
+"South Australia";"Australia";71442;42
+"Tasmania";"Australia";17970;13
+"Victoria";"Australia";618965;1694
+"Western Australia";"Australia";1294;9
+"Austria";"Austria";1428170;13915
+"Azerbaijan";"Azerbaijan";624918;8510
+"Bahamas";"Bahamas";30655;719
+"Bahrain";"Bahrain";305414;1398
+"Bangladesh";"Bangladesh";1612489;28136
+"Barbados";"Barbados";34961;269
+"Antwerp";"Belgium";347368;0
+"Brussels";"Belgium";298580;0
+"East Flanders";"Belgium";300504;0
+"Flemish Brabant";"Belgium";218569;0
+"Hainaut";"Belgium";284444;0
+"Liege";"Belgium";251877;0
+"Limburg";"Belgium";158895;0
+"Luxembourg";"Belgium";62002;0
+"Namur";"Belgium";110746;0
+"Walloon Brabant";"Belgium";93638;0
+"West Flanders";"Belgium";244171;0
+"Belize";"Belize";40612;608
+"Benin";"Benin";26036;162
+"Bhutan";"Bhutan";2904;3
+"Bolivia";"Bolivia";725459;20149
+"Bosnia and Herzegovina";"Bosnia and Herzegovina";313185;13741
+"Botswana";"Botswana";237678;2514
+"Acre";"Brazil";89635;1854
+"Alagoas";"Brazil";245054;6391
+"Amapa";"Brazil";128799;2030
+"Amazonas";"Brazil";446680;13856
+"Bahia";"Brazil";1287084;27658
+"Ceara";"Brazil";968505;24870
+"Distrito Federal";"Brazil";541252;11126
+"Espirito Santo";"Brazil";661762;13371
+"Goias";"Brazil";969099;24765
+"Maranhao";"Brazil";374304;10413
+"Mato Grosso";"Brazil";576467;14122
+"Mato Grosso do Sul";"Brazil";391417;9754
+"Minas Gerais";"Brazil";2349381;56810
+"Para";"Brazil";633356;17237
+"Paraiba";"Brazil";468178;9614
+"Parana";"Brazil";1693867;40931
+"Pernambuco";"Brazil";654766;20544
+"Piaui";"Brazil";345004;7314
+"Rio Grande do Norte";"Brazil";394011;7599
+"Rio Grande do Sul";"Brazil";1581887;36521
+"Rio de Janeiro";"Brazil";1438711;69579
+"Rondonia";"Brazil";290050;6789
+"Roraima";"Brazil";132526;2078
+"Santa Catarina";"Brazil";1298857;20268
+"Sao Paulo";"Brazil";4498145;155707
+"Sergipe";"Brazil";279897;6065
+"Tocantins";"Brazil";243157;3967
+"Brunei";"Brunei";15797;98
+"Bulgaria";"Bulgaria";818229;32042
+"Burkina Faso";"Burkina Faso";20127;339
+"Burma";"Burma";533021;19301
+"Burundi";"Burundi";36257;38
+"Cabo Verde";"Cabo Verde";53987;372
+"Cambodia";"Cambodia";120773;3015
+"Cameroon";"Cameroon";109666;1853
+"Alberta";"Canada";436495;3380
+"British Columbia";"Canada";293521;2468
+"Diamond Princess";"Canada";0;1
+"Grand Princess";"Canada";13;0
+"Manitoba";"Canada";107838;1443
+"New Brunswick";"Canada";22388;183
+"Newfoundland and Labrador";"Canada";12092;24
+"Northwest Territories";"Canada";3741;12
+"Nova Scotia";"Canada";28736;117
+"Nunavut";"Canada";1055;4
+"Ontario";"Canada";949846;10622
+"Prince Edward Island";"Canada";3861;0
+"Quebec";"Canada";789806;12289
+"Repatriated Travellers";"Canada";13;0
+"Saskatchewan";"Canada";98699;961
+"Yukon";"Canada";2638;15
+"Central African Republic";"Central African Republic";13319;108
+"Chad";"Chad";6558;185
+"Antofagasta";"Chile";70863;1295
+"Araucania";"Chile";107397;1569
+"Arica y Parinacota";"Chile";31739;547
+"Atacama";"Chile";31776;384
+"Aysen";"Chile";10635;100
+"Biobio";"Chile";170813;2889
+"Coquimbo";"Chile";56632;1109
+"Los Lagos";"Chile";101054;1548
+"Los Rios";"Chile";55222;736
+"Magallanes";"Chile";32156;512
+"Maule";"Chile";111080;1874
+"Metropolitana";"Chile";776663;20001
+"Nuble";"Chile";40417;680
+"OHiggins";"Chile";74274;1637
+"Tarapaca";"Chile";52716;837
+"Valparaiso";"Chile";143612;3658
+"Anhui";"China";1009;6
+"Beijing";"China";1225;9
+"Chongqing";"China";611;6
+"Fujian";"China";1441;1
+"Gansu";"China";356;2
+"Guangdong";"China";3640;8
+"Guangxi";"China";683;2
+"Guizhou";"China";160;2
+"Hainan";"China";190;6
+"Hebei";"China";1458;7
+"Heilongjiang";"China";2035;13
+"Henan";"China";2402;22
+"Hong Kong";"China";12857;213
+"Hubei";"China";68320;4512
+"Hunan";"China";1229;4
+"Inner Mongolia";"China";1191;1
+"Jiangsu";"China";1629;0
+"Jiangxi";"China";959;1
+"Jilin";"China";590;3
+"Liaoning";"China";808;2
+"Macau";"China";79;0
+"Ningxia";"China";122;0
+"Qinghai";"China";30;0
+"Shaanxi";"China";2817;3
+"Shandong";"China";1053;7
+"Shanghai";"China";3502;7
+"Shanxi";"China";266;0
+"Sichuan";"China";1353;3
+"Tianjin";"China";864;3
+"Tibet";"China";1;0
+"Xinjiang";"China";981;3
+"Yunnan";"China";1843;2
+"Zhejiang";"China";2096;1
+"Amazonas";"Colombia";7146;260
+"Antioquia";"Colombia";865776;17094
+"Arauca";"Colombia";14773;492
+"Atlantico";"Colombia";362923;9767
+"Bolivar";"Colombia";181012;3083
+"Boyaca";"Colombia";113809;2594
+"Caldas";"Colombia";108963;2306
+"Capital District";"Colombia";1563993;27801
+"Caqueta";"Colombia";23516;949
+"Casanare";"Colombia";37212;944
+"Cauca";"Colombia";63609;1605
+"Cesar";"Colombia";96409;2574
+"Choco";"Colombia";17801;407
+"Cordoba";"Colombia";108617;3752
+"Cundinamarca";"Colombia";280894;6874
+"Guainia";"Colombia";2609;35
+"Guaviare";"Colombia";5278;97
+"Huila";"Colombia";92954;3224
+"La Guajira";"Colombia";48564;1454
+"Magdalena";"Colombia";105284;3498
+"Meta";"Colombia";94373;2319
+"Narino";"Colombia";96672;3055
+"Norte de Santander";"Colombia";105366;4749
+"Putumayo";"Colombia";18579;724
+"Quindio";"Colombia";64236;1874
+"Risaralda";"Colombia";96982;2297
+"San Andres y Providencia";"Colombia";9191;152
+"Santander";"Colombia";247108;7580
+"Sucre";"Colombia";61267;1629
+"Tolima";"Colombia";113258;3703
+"Valle del Cauca";"Colombia";498427;13597
+"Vaupes";"Colombia";1807;17
+"Vichada";"Colombia";3071;58
+"Comoros";"Comoros";7745;159
+"Costa Rica";"Costa Rica";609882;7406
+"Croatia";"Croatia";811703;13073
+"Cuba";"Cuba";995631;8335
+"Cyprus";"Cyprus";223767;673
+"Czechia";"Czechia";2587147;36828
+"Faroe Islands";"Denmark";9761;15
+"Greenland";"Denmark";7083;2
+"Denmark";"Denmark";1105037;3484
+"Djibouti";"Djibouti";14841;189
+"Dominican Republic";"Dominican Republic";494595;4268
+"Ecuador";"Ecuador";602942;34206
+"Egypt";"Egypt";398879;22123
+"El Salvador";"El Salvador";123577;3832
+"Equatorial Guinea";"Equatorial Guinea";15319;178
+"Eritrea";"Eritrea";8876;86
+"Estonia";"Estonia";264702;1976
+"Ethiopia";"Ethiopia";456279;7131
+"Fiji";"Fiji";59418;730
+"Finland";"Finland";371135;1724
+"French Guiana";"France";65083;344
+"French Polynesia";"France";47009;636
+"Guadeloupe";"France";65135;832
+"Martinique";"France";63055;795
+"Mayotte";"France";33757;186
+"New Caledonia";"France";13536;281
+"Reunion";"France";102216;435
+"Saint Barthelemy";"France";2927;6
+"Saint Pierre and Miquelon";"France";415;0
+"St Martin";"France";7713;60
+"Wallis and Futuna";"France";454;7
+"France";"France";13604085;124277
+"Gabon";"Gabon";45152;297
+"Gambia";"Gambia";11122;344
+"Georgia";"Georgia";990183;14425
+"Baden-Wurttemberg";"Germany";1120654;13424
+"Bayern";"Germany";1446707;20170
+"Berlin";"Germany";396919;4067
+"Brandenburg";"Germany";272660;4874
+"Bremen";"Germany";65507;620
+"Hamburg";"Germany";172064;2049
+"Hessen";"Germany";542070;8672
+"Mecklenburg-Vorpommern";"Germany";115867;1570
+"Niedersachsen";"Germany";506283;6994
+"Nordrhein-Westfalen";"Germany";1550949;20745
+"Rheinland-Pfalz";"Germany";309170;4734
+"Saarland";"Germany";82715;1299
+"Sachsen";"Germany";679042;13770
+"Sachsen-Anhalt";"Germany";238769;4472
+"Schleswig-Holstein";"Germany";158866;1915
+"Thuringen";"Germany";303294;6252
+"Ghana";"Ghana";153514;1343
+"Greece";"Greece";1650088;21888
+"Grenada";"Grenada";9535;203
+"Guatemala";"Guatemala";651774;16175
+"Guinea";"Guinea";35202;406
+"Guinea-Bissau";"Guinea-Bissau";7004;152
+"Guyana";"Guyana";50121;1086
+"Haiti";"Haiti";27082;780
+"Honduras";"Honduras";382440;10449
+"Hungary";"Hungary";1327014;40237
+"Iceland";"Iceland";44974;44
+"Andaman and Nicobar Islands";"India";8581;129
+"Andhra Pradesh";"India";2101710;14509
+"Arunachal Pradesh";"India";56493;282
+"Assam";"India";644026;6201
+"Bihar";"India";781717;12127
+"Chandigarh";"India";76270;1086
+"Chhattisgarh";"India";1055753;13647
+"Dadra and Nagar Haveli and Daman and Diu";"India";10950;4
+"Delhi";"India";1691684;25335
+"Goa";"India";207243;3550
+"Gujarat";"India";916090;10151
+"Haryana";"India";837998;10098
+"Himachal Pradesh";"India";242289;3889
+"Jammu and Kashmir";"India";355874;4561
+"Jharkhand";"India";402533;5199
+"Karnataka";"India";3186040;38418
+"Kerala";"India";5360708;50674
+"Ladakh";"India";23209;222
+"Lakshadweep";"India";10480;51
+"Madhya Pradesh";"India";824543;10543
+"Maharashtra";"India";7170483;141779
+"Manipur";"India";126979;2014
+"Meghalaya";"India";86147;1490
+"Mizoram";"India";152255;570
+"Nagaland";"India";32834;703
+"Odisha";"India";1122735;8478
+"Puducherry";"India";136550;1886
+"Punjab";"India";656549;16754
+"Rajasthan";"India";1027990;8999
+"Sikkim";"India";34399;413
+"Tamil Nadu";"India";2915948;36967
+"Telangana";"India";707162;4054
+"Tripura";"India";90935;838
+"Uttar Pradesh";"India";1816974;22953
+"Uttarakhand";"India";367272;7440
+"West Bengal";"India";1882761;20052
+"Indonesia";"Indonesia";4270794;144167
+"Iran";"Iran";6218741;132044
+"Iraq";"Iraq";2110683;24242
+"Ireland";"Ireland";1092736;6035
+"Israel";"Israel";1773629;8304
+"Abruzzo";"Italy";162806;2691
+"Basilicata";"Italy";47828;652
+"Calabria";"Italy";142960;1716
+"Campania";"Italy";824083;8708
+"Emilia-Romagna";"Italy";789044;14536
+"Friuli Venezia Giulia";"Italy";205114;4336
+"Lazio";"Italy";682635;9512
+"Liguria";"Italy";216912;4724
+"Lombardia";"Italy";1748171;35854
+"Marche";"Italy";177399;3305
+"Molise";"Italy";23345;513
+"P.A. Bolzano";"Italy";125400;1327
+"P.A. Trento";"Italy";92293;1445
+"Piemonte";"Italy";685051;12268
+"Puglia";"Italy";417380;7059
+"Sardegna";"Italy";105889;1758
+"Sicilia";"Italy";514101;7878
+"Toscana";"Italy";571128;7818
+"Umbria";"Italy";126010;1557
+"Valle d'Aosta";"Italy";23488;495
+"Veneto";"Italy";868413;12704
+"Jamaica";"Jamaica";110250;2522
+"Aichi";"Japan";113403;1164
+"Akita";"Japan";2059;27
+"Aomori";"Japan";6393;39
+"Chiba";"Japan";105071;1029
+"Ehime";"Japan";6273;82
+"Fukui";"Japan";3537;38
+"Fukuoka";"Japan";78905;628
+"Fukushima";"Japan";9880;176
+"Gifu";"Japan";20136;219
+"Gunma";"Japan";18957;182
+"Hiroshima";"Japan";29379;206
+"Hokkaido";"Japan";63937;1477
+"Hyogo";"Japan";83513;1398
+"Ibaraki";"Japan";25690;220
+"Ishikawa";"Japan";8370;139
+"Iwate";"Japan";3600;53
+"Kagawa";"Japan";5083;38
+"Kagoshima";"Japan";10333;66
+"Kanagawa";"Japan";176237;1321
+"Kochi";"Japan";4310;33
+"Kumamoto";"Japan";16035;136
+"Kyoto";"Japan";39663;292
+"Mie";"Japan";15698;165
+"Miyagi";"Japan";16724;118
+"Miyazaki";"Japan";6589;41
+"Nagano";"Japan";10420;97
+"Nagasaki";"Japan";6976;73
+"Nara";"Japan";16798;149
+"Niigata";"Japan";9536;63
+"Oita";"Japan";8656;84
+"Okayama";"Japan";16594;136
+"Okinawa";"Japan";65870;398
+"Osaka";"Japan";219100;3069
+"Port Quarantine";"Japan";4463;4
+"Saga";"Japan";6718;30
+"Saitama";"Japan";121431;1060
+"Shiga";"Japan";14089;104
+"Shimane";"Japan";2247;5
+"Shizuoka";"Japan";29076;210
+"Tochigi";"Japan";16790;118
+"Tokushima";"Japan";3457;66
+"Tokyo";"Japan";403662;3178
+"Tottori";"Japan";1889;5
+"Toyama";"Japan";5077;52
+"Wakayama";"Japan";5951;62
+"Yamagata";"Japan";3817;56
+"Yamaguchi";"Japan";7922;94
+"Yamanashi";"Japan";5680;29
+"Jordan";"Jordan";1097474;12974
+"Kazakhstan";"Kazakhstan";1134598;18293
+"Kenya";"Kenya";317324;5488
+"Kosovo";"Kosovo";165363;2994
+"Kuwait";"Kuwait";460828;2475
+"Kyrgyzstan";"Kyrgyzstan";188813;2828
+"Laos";"Laos";124193;488
+"Latvia";"Latvia";301654;4726
+"Lebanon";"Lebanon";814631;9367
+"Lesotho";"Lesotho";31734;687
+"Liberia";"Liberia";7121;287
+"Libya";"Libya";396452;5828
+"Liechtenstein";"Liechtenstein";7153;72
+"Lithuania";"Lithuania";564039;7643
+"Luxembourg";"Luxembourg";123340;934
+"Madagascar";"Madagascar";55138;1169
+"Malawi";"Malawi";82506;2459
+"Johor";"Malaysia";250409;3892
+"Kedah";"Malaysia";171653;2177
+"Kelantan";"Malaysia";173397;1265
+"Melaka";"Malaysia";78517;962
+"Negeri Sembilan";"Malaysia";115514;1326
+"Pahang";"Malaysia";98360;791
+"Perak";"Malaysia";131047;1420
+"Perlis";"Malaysia";7402;137
+"Pulau Pinang";"Malaysia";163987;1761
+"Sabah";"Malaysia";244004;2808
+"Sarawak";"Malaysia";252594;1619
+"Selangor";"Malaysia";798873;10015
+"Terengganu";"Malaysia";84227;743
+"W.P. Kuala Lumpur";"Malaysia";214603;2692
+"W.P. Labuan";"Malaysia";10981;151
+"W.P. Putrajaya";"Malaysia";9769;22
+"Maldives";"Maldives";102372;265
+"Mali";"Mali";28321;688
+"Malta";"Malta";63409;504
+"Mauritania";"Mauritania";54393;903
+"Mauritius";"Mauritius";24425;240
+"Aguascalientes";"Mexico";43293;3091
+"Baja California";"Mexico";104770;11306
+"Baja California Sur";"Mexico";75114;2444
+"Campeche";"Mexico";25821;2108
+"Chiapas";"Mexico";24579;2299
+"Chihuahua";"Mexico";93091;8923
+"Ciudad de Mexico";"Mexico";1091591;40452
+"Coahuila";"Mexico";115080;7931
+"Colima";"Mexico";37190;2040
+"Durango";"Mexico";57046;3198
+"Guanajuato";"Mexico";222272;13578
+"Guerrero";"Mexico";81557;6340
+"Hidalgo";"Mexico";68255;7929
+"Jalisco";"Mexico";181112;17880
+"Mexico";"Mexico";410619;44950
+"Michoacan";"Mexico";77381;8299
+"Morelos";"Mexico";53705;4959
+"Nayarit";"Mexico";40181;2927
+"Nuevo Leon";"Mexico";230559;13811
+"Oaxaca";"Mexico";88683;5680
+"Puebla";"Mexico";132585;15780
+"Queretaro";"Mexico";108201;5688
+"Quintana Roo";"Mexico";72208;4128
+"San Luis Potosi";"Mexico";125477;6869
+"Sinaloa";"Mexico";86059;9052
+"Sonora";"Mexico";133430;9290
+"Tabasco";"Mexico";156139;5779
+"Tamaulipas";"Mexico";114747;7172
+"Tlaxcala";"Mexico";31093;3003
+"Veracruz";"Mexico";130380;15185
+"Yucatan";"Mexico";85090;5750
+"Zacatecas";"Mexico";51874;3493
+"Moldova";"Moldova";387920;10437
+"Monaco";"Monaco";6610;44
+"Mongolia";"Mongolia";407542;2085
+"Montenegro";"Montenegro";202348;2466
+"Morocco";"Morocco";1043225;14963
+"Mozambique";"Mozambique";218797;2123
+"Namibia";"Namibia";154261;3814
+"Nepal";"Nepal";849204;11617
+"Aruba";"Netherlands";30420;184
+"Bonaire, Sint Eustatius and Saba";"Netherlands";5438;25
+"Curacao";"Netherlands";32892;202
+"Drenthe";"Netherlands";71709;426
+"Flevoland";"Netherlands";82351;313
+"Friesland";"Netherlands";108698;586
+"Gelderland";"Netherlands";395815;2609
+"Groningen";"Netherlands";87503;342
+"Limburg";"Netherlands";247043;2077
+"Noord-Brabant";"Netherlands";537125;3561
+"Noord-Holland";"Netherlands";603055;3138
+"Overijssel";"Netherlands";225846;1347
+"Sint Maarten";"Netherlands";8530;75
+"Utrecht";"Netherlands";279357;1479
+"Zeeland";"Netherlands";71768;358
+"Zuid-Holland";"Netherlands";803151;4892
+"Cook Islands";"New Zealand";2;0
+"New Zealand";"New Zealand";15069;52
+"Nicaragua";"Nicaragua";17563;218
+"Niger";"Niger";8347;287
+"Nigeria";"Nigeria";250628;3095
+"North Macedonia";"North Macedonia";243284;8092
+"Norway";"Norway";504789;1381
+"Oman";"Oman";310338;4119
+"Azad Jammu and Kashmir";"Pakistan";34750;749
+"Balochistan";"Pakistan";33699;367
+"Gilgit-Baltistan";"Pakistan";10445;187
+"Islamabad";"Pakistan";110963;969
+"Khyber Pakhtunkhwa";"Pakistan";182199;5958
+"Punjab";"Pakistan";452261;13088
+"Sindh";"Pakistan";499830;7694
+"Panama";"Panama";567578;7511
+"Papua New Guinea";"Papua New Guinea";36435;596
+"Paraguay";"Paraguay";475686;16670
+"Amazonas";"Peru";34029;1293
+"Ancash";"Peru";88759;6789
+"Apurimac";"Peru";27769;1528
+"Arequipa";"Peru";129320;9776
+"Ayacucho";"Peru";36885;2171
+"Cajamarca";"Peru";72311;4205
+"Callao";"Peru";113655;10146
+"Cusco";"Peru";77692;4835
+"Huancavelica";"Peru";17317;1185
+"Huanuco";"Peru";39063;2734
+"Ica";"Peru";67451;8627
+"Junin";"Peru";95384;7121
+"La Libertad";"Peru";101353;10420
+"Lambayeque";"Peru";65954;8720
+"Lima";"Peru";1132690;89734
+"Loreto";"Peru";46244;4285
+"Madre de Dios";"Peru";14466;782
+"Moquegua";"Peru";32200;1542
+"Pasco";"Peru";17252;1051
+"Piura";"Peru";103155;12327
+"Puno";"Peru";45159;4276
+"San Martin";"Peru";51053;3043
+"Tacna";"Peru";34636;1984
+"Tumbes";"Peru";19965;1600
+"Ucayali";"Peru";32780;3091
+"Philippines";"Philippines";3168379;52858
+"Poland";"Poland";4298375;102270
+"Portugal";"Portugal";1852703;19270
+"Qatar";"Qatar";295221;624
+"Romania";"Romania";1895833;59212
+"Adygea Republic";"Russia";28223;781
+"Altai Krai";"Russia";124078;6953
+"Altai Republic";"Russia";25650;535
+"Amur Oblast";"Russia";56778;624
+"Arkhangelsk Oblast";"Russia";125881;1552
+"Astrakhan Oblast";"Russia";83187;2537
+"Bashkortostan Republic";"Russia";125084;4565
+"Belgorod Oblast";"Russia";83284;1834
+"Bryansk Oblast";"Russia";98929;3062
+"Buryatia Republic";"Russia";78168;2524
+"Chechen Republic";"Russia";31701;965
+"Chelyabinsk Oblast";"Russia";150144;6368
+"Chukotka Autonomous Okrug";"Russia";2985;39
+"Chuvashia Republic";"Russia";47273;4135
+"Dagestan Republic";"Russia";67579;3281
+"Ingushetia Republic";"Russia";29671;490
+"Irkutsk Oblast";"Russia";161206;7160
+"Ivanovo Oblast";"Russia";69812;2628
+"Jewish Autonomous Okrug";"Russia";11890;431
+"Kabardino-Balkarian Republic";"Russia";43253;1517
+"Kaliningrad Oblast";"Russia";84498;1327
+"Kalmykia Republic";"Russia";34215;753
+"Kaluga Oblast";"Russia";66980;1260
+"Kamchatka Krai";"Russia";24164;518
+"Karachay-Cherkess Republic";"Russia";33107;921
+"Karelia Republic";"Russia";91960;1252
+"Kemerovo Oblast";"Russia";88782;1784
+"Khabarovsk Krai";"Russia";128905;1292
+"Khakassia Republic";"Russia";54693;2068
+"Khanty-Mansi Autonomous Okrug";"Russia";97997;2088
+"Kirov Oblast";"Russia";81601;785
+"Komi Republic";"Russia";98816;2712
+"Kostroma Oblast";"Russia";49153;1142
+"Krasnodar Krai";"Russia";124716;9936
+"Krasnoyarsk Krai";"Russia";177163;9075
+"Kurgan Oblast";"Russia";51961;1031
+"Kursk Oblast";"Russia";83091;2113
+"Leningrad Oblast";"Russia";105341;3080
+"Lipetsk Oblast";"Russia";85852;2921
+"Magadan Oblast";"Russia";13826;356
+"Mari El Republic";"Russia";29922;956
+"Mordovia Republic";"Russia";41266;1082
+"Moscow";"Russia";2082224;37807
+"Moscow Oblast";"Russia";660444;12722
+"Murmansk Oblast";"Russia";93402;2841
+"Nenets Autonomous Okrug";"Russia";3550;89
+"Nizhny Novgorod Oblast";"Russia";236010;10186
+"North Ossetia - Alania Republic";"Russia";31997;1023
+"Novgorod Oblast";"Russia";66909;805
+"Novosibirsk Oblast";"Russia";98645;4424
+"Omsk Oblast";"Russia";133838;3334
+"Orel Oblast";"Russia";72223;1575
+"Orenburg Oblast";"Russia";109372;3537
+"Penza Oblast";"Russia";104455;4768
+"Perm Krai";"Russia";165294;7643
+"Primorsky Krai";"Russia";106298;1623
+"Pskov Oblast";"Russia";72615;1345
+"Rostov Oblast";"Russia";199103;9876
+"Ryazan Oblast";"Russia";62810;2687
+"Saint Petersburg";"Russia";876548;28934
+"Sakha (Yakutiya) Republic";"Russia";77726;1825
+"Sakhalin Oblast";"Russia";43885;583
+"Samara Oblast";"Russia";203519;6513
+"Saratov Oblast";"Russia";136014;5211
+"Smolensk Oblast";"Russia";86377;2464
+"Stavropol Krai";"Russia";129454;6285
+"Sverdlovsk Oblast";"Russia";205050;9725
+"Tambov Oblast";"Russia";63670;1815
+"Tatarstan Republic";"Russia";44186;1517
+"Tomsk Oblast";"Russia";63663;687
+"Tula Oblast";"Russia";78244;4422
+"Tver Oblast";"Russia";101736;2418
+"Tyumen Oblast";"Russia";93093;3587
+"Tyva Republic";"Russia";31735;326
+"Udmurt Republic";"Russia";79943;3276
+"Ulyanovsk Oblast";"Russia";121969;3938
+"Vladimir Oblast";"Russia";83865;2999
+"Volgograd Oblast";"Russia";132181;5772
+"Vologda Oblast";"Russia";101282;3080
+"Voronezh Oblast";"Russia";197517;7133
+"Yamalo-Nenets Autonomous Okrug";"Russia";62757;970
+"Yaroslavl Oblast";"Russia";88546;2014
+"Zabaykalsky Krai";"Russia";97499;1954
+"Rwanda";"Rwanda";124802;1403
+"Saint Lucia";"Saint Lucia";16969;314
+"Saint Vincent and the Grenadines";"Saint Vincent and the Grenadines";6581;85
+"San Marino";"San Marino";10350;103
+"Sao Tome and Principe";"Sao Tome and Principe";5495;65
+"Saudi Arabia";"Saudi Arabia";609953;8905
+"Senegal";"Senegal";82271;1908
+"Serbia";"Serbia";1425147;13045
+"Seychelles";"Seychelles";31098;136
+"Sierra Leone";"Sierra Leone";7529;125
+"Singapore";"Singapore";290986;843
+"Slovakia";"Slovakia";1414154;17252
+"Slovenia";"Slovenia";527311;5696
+"Solomon Islands";"Solomon Islands";25;0
+"Somalia";"Somalia";24261;1335
+"South Africa";"South Africa";3556633;93278
+"South Sudan";"South Sudan";16489;136
+"Andalusia";"Spain";1109652;11641
+"Aragon";"Spain";297558;4207
+"Asturias";"Spain";134043;2208
+"Baleares";"Spain";174044;1082
+"C. Valenciana";"Spain";816837;8253
+"Canarias";"Spain";213089;1254
+"Cantabria";"Spain";84393;649
+"Castilla - La Mancha";"Spain";360832;6651
+"Castilla y Leon";"Spain";509419;7674
+"Catalonia";"Spain";1512199;16208
+"Ceuta";"Spain";13158;134
+"Extremadura";"Spain";173807;2054
+"Galicia";"Spain";346321;2829
+"La Rioja";"Spain";69257;861
+"Madrid";"Spain";1323514;16422
+"Melilla";"Spain";16175;124
+"Murcia";"Spain";245050;1882
+"Navarra";"Spain";174614;1335
+"Pais Vasco";"Spain";519074;5291
+"Sri Lanka";"Sri Lanka";595657;15197
+"Sudan";"Sudan";50984;3358
+"Suriname";"Suriname";63443;1212
+"Blekinge";"Sweden";17524;139
+"Dalarna";"Sweden";39825;368
+"Gavleborg";"Sweden";46542;579
+"Gotland";"Sweden";6179;54
+"Halland";"Sweden";60486;341
+"Jamtland Harjedalen";"Sweden";19636;130
+"Jonkoping";"Sweden";56131;575
+"Kalmar";"Sweden";33087;263
+"Kronoberg";"Sweden";28951;333
+"Norrbotten";"Sweden";33369;299
+"Orebro";"Sweden";45898;364
+"Ostergotland";"Sweden";54594;670
+"Skane";"Sweden";227458;1871
+"Sormland";"Sweden";37189;492
+"Stockholm";"Sweden";388644;4634
+"Uppsala";"Sweden";56449;562
+"Varmland";"Sweden";31447;233
+"Vasterbotten";"Sweden";33000;204
+"Vasternorrland";"Sweden";34337;489
+"Vastmanland";"Sweden";43550;391
+"Vastra Gotaland";"Sweden";266067;2522
+"Switzerland";"Switzerland";1666441;12469
+"Syria";"Syria";50674;2944
+"Tajikistan";"Tajikistan";17493;125
+"Tanzania";"Tanzania";30564;740
+"Thailand";"Thailand";2308615;21898
+"Timor-Leste";"Timor-Leste";19861;122
+"Togo";"Togo";35665;261
+"Trinidad and Tobago";"Trinidad and Tobago";100590;3180
+"Tunisia";"Tunisia";780746;25777
+"Turkey";"Turkey";10404994;84622
+"Alabama";"US";12180;162
+"Alabama";"US";44353;603
+"Alabama";"US";4437;83
+"Alabama";"US";5046;95
+"Alabama";"US";12068;202
+"Alabama";"US";1922;46
+"Alabama";"US";4073;102
+"Alabama";"US";25325;535
+"Alabama";"US";7054;147
+"Alabama";"US";3719;66
+"Alabama";"US";8177;175
+"Alabama";"US";1245;30
+"Alabama";"US";5479;89
+"Alabama";"US";3002;70
+"Alabama";"US";2814;61
+"Alabama";"US";10727;201
+"Alabama";"US";11076;217
+"Alabama";"US";2246;62
+"Alabama";"US";2202;48
+"Alabama";"US";7587;203
+"Alabama";"US";3065;80
+"Alabama";"US";18496;316
+"Alabama";"US";10274;198
+"Alabama";"US";6343;214
+"Alabama";"US";14425;283
+"Alabama";"US";18318;301
+"Alabama";"US";8153;150
+"Alabama";"US";22449;530
+"Alabama";"US";3630;86
+"Alabama";"US";7036;114
+"Alabama";"US";4986;138
+"Alabama";"US";1493;47
+"Alabama";"US";3705;91
+"Alabama";"US";3584;67
+"Alabama";"US";20142;437
+"Alabama";"US";11314;204
+"Alabama";"US";145464;2034
+"Alabama";"US";2756;60
+"Alabama";"US";17639;322
+"Alabama";"US";5522;138
+"Alabama";"US";30677;271
+"Alabama";"US";19006;231
+"Alabama";"US";2166;68
+"Alabama";"US";3070;69
+"Alabama";"US";66148;779
+"Alabama";"US";3819;93
+"Alabama";"US";5994;132
+"Alabama";"US";20951;329
+"Alabama";"US";90684;1405
+"Alabama";"US";4029;66
+"Alabama";"US";44560;804
+"Alabama";"US";26361;431
+"Alabama";"US";0;0
+"Alabama";"US";1666;41
+"Alabama";"US";3918;92
+"Alabama";"US";5975;112
+"Alabama";"US";4072;68
+"Alabama";"US";8282;68
+"Alabama";"US";46249;383
+"Alabama";"US";20037;367
+"Alabama";"US";1737;42
+"Alabama";"US";16909;313
+"Alabama";"US";8858;207
+"Alabama";"US";42127;667
+"Alabama";"US";0;0
+"Alabama";"US";13579;392
+"Alabama";"US";2823;52
+"Alabama";"US";2092;38
+"Alabama";"US";5307;114
+"Alaska";"US";524;3
+"Alaska";"US";1200;2
+"Alaska";"US";75769;434
+"Alaska";"US";7307;32
+"Alaska";"US";0;0
+"Alaska";"US";622;1
+"Alaska";"US";1374;9
+"Alaska";"US";753;4
+"Alaska";"US";310;1
+"Alaska";"US";1071;10
+"Alaska";"US";19801;118
+"Alaska";"US";327;1
+"Alaska";"US";5658;15
+"Alaska";"US";12965;81
+"Alaska";"US";2687;15
+"Alaska";"US";3471;10
+"Alaska";"US";2717;9
+"Alaska";"US";26661;177
+"Alaska";"US";2739;3
+"Alaska";"US";3139;9
+"Alaska";"US";2650;10
+"Alaska";"US";579;3
+"Alaska";"US";807;6
+"Alaska";"US";1642;6
+"Alaska";"US";101;0
+"Alaska";"US";1508;14
+"Alaska";"US";594;1
+"Alaska";"US";0;0
+"Alaska";"US";318;1
+"Alaska";"US";390;4
+"Alaska";"US";934;8
+"American Samoa";"US";10;0
+"Arizona";"US";17663;555
+"Arizona";"US";22285;483
+"Arizona";"US";33319;426
+"Arizona";"US";13350;319
+"Arizona";"US";9532;159
+"Arizona";"US";1682;30
+"Arizona";"US";3996;112
+"Arizona";"US";995019;14097
+"Arizona";"US";43446;1230
+"Arizona";"US";30211;774
+"Arizona";"US";0;0
+"Arizona";"US";194215;3288
+"Arizona";"US";99389;1367
+"Arizona";"US";11796;207
+"Arizona";"US";2;0
+"Arizona";"US";39143;1008
+"Arizona";"US";48145;1013
+"Arkansas";"US";4645;67
+"Arkansas";"US";4085;56
+"Arkansas";"US";7256;209
+"Arkansas";"US";54028;709
+"Arkansas";"US";7861;144
+"Arkansas";"US";2463;43
+"Arkansas";"US";731;9
+"Arkansas";"US";5125;83
+"Arkansas";"US";2424;49
+"Arkansas";"US";4416;66
+"Arkansas";"US";3320;77
+"Arkansas";"US";5154;105
+"Arkansas";"US";1871;33
+"Arkansas";"US";4391;77
+"Arkansas";"US";4370;50
+"Arkansas";"US";30950;267
+"Arkansas";"US";13052;202
+"Arkansas";"US";12127;194
+"Arkansas";"US";3864;73
+"Arkansas";"US";1436;21
+"Arkansas";"US";2536;35
+"Arkansas";"US";3847;58
+"Arkansas";"US";27806;257
+"Arkansas";"US";3255;61
+"Arkansas";"US";2244;79
+"Arkansas";"US";18890;436
+"Arkansas";"US";3620;52
+"Arkansas";"US";13127;139
+"Arkansas";"US";3768;51
+"Arkansas";"US";9183;113
+"Arkansas";"US";3269;39
+"Arkansas";"US";8516;181
+"Arkansas";"US";3301;59
+"Arkansas";"US";5125;49
+"Arkansas";"US";15789;242
+"Arkansas";"US";5367;65
+"Arkansas";"US";1099;28
+"Arkansas";"US";4119;64
+"Arkansas";"US";2580;54
+"Arkansas";"US";4372;59
+"Arkansas";"US";2667;85
+"Arkansas";"US";4228;56
+"Arkansas";"US";16215;191
+"Arkansas";"US";3222;47
+"Arkansas";"US";2744;76
+"Arkansas";"US";7805;158
+"Arkansas";"US";11161;165
+"Arkansas";"US";1605;28
+"Arkansas";"US";1293;53
+"Arkansas";"US";1793;43
+"Arkansas";"US";1518;45
+"Arkansas";"US";4463;92
+"Arkansas";"US";1975;27
+"Arkansas";"US";4153;84
+"Arkansas";"US";2152;39
+"Arkansas";"US";6598;107
+"Arkansas";"US";3407;130
+"Arkansas";"US";14876;171
+"Arkansas";"US";1599;32
+"Arkansas";"US";85555;990
+"Arkansas";"US";4088;69
+"Arkansas";"US";25140;267
+"Arkansas";"US";1932;35
+"Arkansas";"US";1714;34
+"Arkansas";"US";27606;418
+"Arkansas";"US";4823;63
+"Arkansas";"US";3722;82
+"Arkansas";"US";6076;74
+"Arkansas";"US";2274;51
+"Arkansas";"US";12955;0
+"Arkansas";"US";7735;156
+"Arkansas";"US";2911;46
+"Arkansas";"US";56202;527
+"Arkansas";"US";17252;218
+"Arkansas";"US";1362;24
+"Arkansas";"US";5587;92
+"California";"US";185099;1561
+"California";"US";117;0
+"California";"US";6563;72
+"California";"US";29792;348
+"California";"US";5388;93
+"California";"US";3623;21
+"California";"US";142972;1082
+"California";"US";4150;43
+"California";"US";22700;175
+"California";"US";181673;2415
+"California";"US";5080;39
+"California";"US";13801;128
+"California";"US";48136;817
+"California";"US";3468;49
+"California";"US";181112;1964
+"California";"US";39671;391
+"California";"US";7967;117
+"California";"US";8606;59
+"California";"US";2213664;28008
+"California";"US";27294;333
+"California";"US";26572;251
+"California";"US";2161;18
+"California";"US";9534;102
+"California";"US";51903;715
+"California";"US";847;6
+"California";"US";2594;4
+"California";"US";63352;647
+"California";"US";17946;109
+"California";"US";12310;111
+"California";"US";459016;5921
+"California";"US";0;0
+"California";"US";52773;504
+"California";"US";2255;12
+"California";"US";485826;5578
+"California";"US";219461;2586
+"California";"US";10177;89
+"California";"US";469782;6233
+"California";"US";595420;4540
+"California";"US";94872;692
+"California";"US";132154;1954
+"California";"US";40433;374
+"California";"US";87189;644
+"California";"US";64767;579
+"California";"US";224378;1974
+"California";"US";30851;235
+"California";"US";24828;506
+"California";"US";232;0
+"California";"US";5359;62
+"California";"US";60463;389
+"California";"US";60574;426
+"California";"US";106512;1504
+"California";"US";16942;197
+"California";"US";11412;141
+"California";"US";1095;19
+"California";"US";97613;1192
+"California";"US";9214;91
+"California";"US";7153;3
+"California";"US";140759;1229
+"California";"US";29260;270
+"California";"US";12784;101
+"Colorado";"US";111444;1078
+"Colorado";"US";3426;58
+"Colorado";"US";125467;1020
+"Colorado";"US";2384;9
+"Colorado";"US";612;8
+"Colorado";"US";2021;45
+"Colorado";"US";48934;305
+"Colorado";"US";10645;99
+"Colorado";"US";3613;38
+"Colorado";"US";271;9
+"Colorado";"US";1254;10
+"Colorado";"US";1306;48
+"Colorado";"US";513;14
+"Colorado";"US";2600;27
+"Colorado";"US";525;16
+"Colorado";"US";4973;124
+"Colorado";"US";142720;1122
+"Colorado";"US";297;6
+"Colorado";"US";63043;356
+"Colorado";"US";13931;33
+"Colorado";"US";148029;1457
+"Colorado";"US";3916;31
+"Colorado";"US";11393;164
+"Colorado";"US";11975;80
+"Colorado";"US";769;4
+"Colorado";"US";3039;20
+"Colorado";"US";2733;13
+"Colorado";"US";98;0
+"Colorado";"US";1086;28
+"Colorado";"US";132;0
+"Colorado";"US";99452;1142
+"Colorado";"US";295;4
+"Colorado";"US";1381;28
+"Colorado";"US";9849;68
+"Colorado";"US";1592;2
+"Colorado";"US";59489;410
+"Colorado";"US";2712;35
+"Colorado";"US";1660;9
+"Colorado";"US";5690;99
+"Colorado";"US";33287;482
+"Colorado";"US";180;1
+"Colorado";"US";2463;49
+"Colorado";"US";4652;59
+"Colorado";"US";7619;150
+"Colorado";"US";4675;128
+"Colorado";"US";3562;118
+"Colorado";"US";732;6
+"Colorado";"US";0;0
+"Colorado";"US";2358;18
+"Colorado";"US";672;15
+"Colorado";"US";5531;6
+"Colorado";"US";2174;44
+"Colorado";"US";36164;699
+"Colorado";"US";1360;13
+"Colorado";"US";2178;41
+"Colorado";"US";5439;24
+"Colorado";"US";919;10
+"Colorado";"US";170;0
+"Colorado";"US";1966;7
+"Colorado";"US";385;6
+"Colorado";"US";8640;12
+"Colorado";"US";4008;54
+"Colorado";"US";119;0
+"Colorado";"US";818;25
+"Colorado";"US";66797;608
+"Colorado";"US";1583;22
+"Connecticut";"US";178205;2437
+"Connecticut";"US";154699;2783
+"Connecticut";"US";27303;388
+"Connecticut";"US";23268;431
+"Connecticut";"US";167580;2470
+"Connecticut";"US";45088;555
+"Connecticut";"US";17342;229
+"Connecticut";"US";2430;5
+"Connecticut";"US";21657;258
+"Delaware";"US";42478;522
+"Delaware";"US";128976;1177
+"Delaware";"US";52805;725
+"Delaware";"US";835;0
+"Diamond Princess";"US";49;0
+"District of Columbia";"US";121871;1255
+"Florida";"US";53902;539
+"Florida";"US";6802;122
+"Florida";"US";37964;707
+"Florida";"US";6062;128
+"Florida";"US";109128;1787
+"Florida";"US";541334;4992
+"Florida";"US";3368;85
+"Florida";"US";28664;677
+"Florida";"US";23830;840
+"Florida";"US";42246;708
+"Florida";"US";73739;886
+"Florida";"US";17190;320
+"Florida";"US";7856;138
+"Florida";"US";3279;53
+"Florida";"US";212167;2890
+"Florida";"US";69539;1110
+"Florida";"US";18258;282
+"Florida";"US";2568;46
+"Florida";"US";11242;182
+"Florida";"US";3547;70
+"Florida";"US";1693;34
+"Florida";"US";3481;65
+"Florida";"US";3231;49
+"Florida";"US";7208;104
+"Florida";"US";9997;145
+"Florida";"US";34428;935
+"Florida";"US";19541;570
+"Florida";"US";316215;3140
+"Florida";"US";4447;72
+"Florida";"US";27113;575
+"Florida";"US";11796;243
+"Florida";"US";3145;36
+"Florida";"US";2361;51
+"Florida";"US";70657;1255
+"Florida";"US";161124;1861
+"Florida";"US";69449;530
+"Florida";"US";8192;116
+"Florida";"US";2107;25
+"Florida";"US";4471;69
+"Florida";"US";80571;1229
+"Florida";"US";68488;1803
+"Florida";"US";27341;524
+"Florida";"US";1058432;9278
+"Florida";"US";16147;100
+"Florida";"US";18324;249
+"Florida";"US";41666;585
+"Florida";"US";9166;163
+"Florida";"US";322108;2298
+"Florida";"US";98950;939
+"Florida";"US";326928;4329
+"Florida";"US";100079;1624
+"Florida";"US";173389;2780
+"Florida";"US";168252;2534
+"Florida";"US";14579;383
+"Florida";"US";39075;531
+"Florida";"US";73128;1350
+"Florida";"US";86581;904
+"Florida";"US";50973;478
+"Florida";"US";62722;1047
+"Florida";"US";17587;477
+"Florida";"US";10508;273
+"Florida";"US";5289;85
+"Florida";"US";9079;0
+"Florida";"US";3537;100
+"Florida";"US";97641;1649
+"Florida";"US";7873;106
+"Florida";"US";14818;174
+"Florida";"US";5346;75
+"Georgia";"US";3930;109
+"Georgia";"US";1758;39
+"Georgia";"US";2880;65
+"Georgia";"US";440;14
+"Georgia";"US";8185;205
+"Georgia";"US";3310;73
+"Georgia";"US";19051;210
+"Georgia";"US";25399;389
+"Georgia";"US";3579;113
+"Georgia";"US";3990;72
+"Georgia";"US";31929;676
+"Georgia";"US";2806;86
+"Georgia";"US";3359;92
+"Georgia";"US";2818;76
+"Georgia";"US";7303;77
+"Georgia";"US";13126;228
+"Georgia";"US";4416;88
+"Georgia";"US";5811;125
+"Georgia";"US";948;22
+"Georgia";"US";9040;101
+"Georgia";"US";1746;91
+"Georgia";"US";20877;380
+"Georgia";"US";11481;128
+"Georgia";"US";2438;58
+"Georgia";"US";49763;745
+"Georgia";"US";6446;21
+"Georgia";"US";5449;114
+"Georgia";"US";55087;500
+"Georgia";"US";25593;191
+"Georgia";"US";434;4
+"Georgia";"US";54286;813
+"Georgia";"US";1694;36
+"Georgia";"US";148382;1495
+"Georgia";"US";8882;249
+"Georgia";"US";9004;206
+"Georgia";"US";29704;327
+"Georgia";"US";4122;65
+"Georgia";"US";28695;412
+"Georgia";"US";1402;48
+"Georgia";"US";3882;123
+"Georgia";"US";2579;24
+"Georgia";"US";5905;83
+"Georgia";"US";123874;1430
+"Georgia";"US";5403;112
+"Georgia";"US";4223;137
+"Georgia";"US";2006;62
+"Georgia";"US";15190;434
+"Georgia";"US";31164;327
+"Georgia";"US";2218;58
+"Georgia";"US";775;11
+"Georgia";"US";10353;177
+"Georgia";"US";3856;94
+"Georgia";"US";5013;144
+"Georgia";"US";1905;58
+"Georgia";"US";4395;119
+"Georgia";"US";18846;259
+"Georgia";"US";23053;416
+"Georgia";"US";45241;311
+"Georgia";"US";4576;87
+"Georgia";"US";186324;1918
+"Georgia";"US";5622;148
+"Georgia";"US";502;21
+"Georgia";"US";18347;349
+"Georgia";"US";13330;214
+"Georgia";"US";4442;94
+"Georgia";"US";3413;74
+"Georgia";"US";177656;1600
+"Georgia";"US";8566;225
+"Georgia";"US";46905;710
+"Georgia";"US";1392;83
+"Georgia";"US";4636;138
+"Georgia";"US";4945;96
+"Georgia";"US";4168;76
+"Georgia";"US";1846;43
+"Georgia";"US";51806;553
+"Georgia";"US";32300;432
+"Georgia";"US";1588;42
+"Georgia";"US";18340;243
+"Georgia";"US";2726;62
+"Georgia";"US";3208;64
+"Georgia";"US";3178;97
+"Georgia";"US";1288;63
+"Georgia";"US";1816;64
+"Georgia";"US";4248;99
+"Georgia";"US";4302;102
+"Georgia";"US";1756;17
+"Georgia";"US";11441;262
+"Georgia";"US";5540;87
+"Georgia";"US";9466;137
+"Georgia";"US";1408;33
+"Georgia";"US";2115;29
+"Georgia";"US";25333;330
+"Georgia";"US";5993;112
+"Georgia";"US";1775;46
+"Georgia";"US";5931;85
+"Georgia";"US";1206;43
+"Georgia";"US";4333;80
+"Georgia";"US";1982;33
+"Georgia";"US";3864;123
+"Georgia";"US";1410;25
+"Georgia";"US";4130;102
+"Georgia";"US";5098;154
+"Georgia";"US";1681;45
+"Georgia";"US";3915;52
+"Georgia";"US";9183;153
+"Georgia";"US";31603;683
+"Georgia";"US";21823;378
+"Georgia";"US";7347;84
+"Georgia";"US";2751;45
+"Georgia";"US";61320;1205
+"Georgia";"US";33553;362
+"Georgia";"US";5159;115
+"Georgia";"US";6891;133
+"Georgia";"US";4696;108
+"Georgia";"US";4623;76
+"Georgia";"US";10350;168
+"Georgia";"US";1771;68
+"Georgia";"US";3908;91
+"Georgia";"US";339;4
+"Georgia";"US";3098;82
+"Georgia";"US";1203;44
+"Georgia";"US";43381;773
+"Georgia";"US";16177;271
+"Georgia";"US";900;8
+"Georgia";"US";2136;62
+"Georgia";"US";1771;26
+"Georgia";"US";14071;348
+"Georgia";"US";5372;126
+"Georgia";"US";1850;30
+"Georgia";"US";5454;145
+"Georgia";"US";994;30
+"Georgia";"US";209;3
+"Georgia";"US";4183;120
+"Georgia";"US";1640;42
+"Georgia";"US";2521;75
+"Georgia";"US";1564;58
+"Georgia";"US";9183;185
+"Georgia";"US";9870;189
+"Georgia";"US";6016;177
+"Georgia";"US";2005;90
+"Georgia";"US";1381;55
+"Georgia";"US";13899;334
+"Georgia";"US";2136;50
+"Georgia";"US";1328;62
+"Georgia";"US";9770;8
+"Georgia";"US";4055;133
+"Georgia";"US";6734;194
+"Georgia";"US";13494;179
+"Georgia";"US";19346;366
+"Georgia";"US";8131;253
+"Georgia";"US";927;26
+"Georgia";"US";3716;127
+"Georgia";"US";6396;181
+"Georgia";"US";358;7
+"Georgia";"US";1067;36
+"Georgia";"US";5691;135
+"Georgia";"US";27662;365
+"Georgia";"US";1547;61
+"Georgia";"US";1862;40
+"Georgia";"US";1861;48
+"Georgia";"US";3752;97
+"Grand Princess";"US";103;3
+"Guam";"US";23115;274
+"Hawaii";"US";17576;159
+"Hawaii";"US";118177;825
+"Hawaii";"US";6283;20
+"Hawaii";"US";19730;108
+"Hawaii";"US";4242;11
+"Hawaii";"US";0;0
+"Idaho";"US";94384;889
+"Idaho";"US";587;14
+"Idaho";"US";16064;217
+"Idaho";"US";785;15
+"Idaho";"US";1799;31
+"Idaho";"US";8010;139
+"Idaho";"US";4343;27
+"Idaho";"US";889;11
+"Idaho";"US";7072;155
+"Idaho";"US";25359;255
+"Idaho";"US";1780;51
+"Idaho";"US";410;7
+"Idaho";"US";112;1
+"Idaho";"US";47883;614
+"Idaho";"US";1160;24
+"Idaho";"US";4133;48
+"Idaho";"US";94;0
+"Idaho";"US";1859;29
+"Idaho";"US";446;7
+"Idaho";"US";4817;54
+"Idaho";"US";2014;27
+"Idaho";"US";1899;20
+"Idaho";"US";3054;72
+"Idaho";"US";2491;46
+"Idaho";"US";2520;42
+"Idaho";"US";5103;55
+"Idaho";"US";4592;58
+"Idaho";"US";33902;507
+"Idaho";"US";5200;41
+"Idaho";"US";1091;25
+"Idaho";"US";911;23
+"Idaho";"US";806;14
+"Idaho";"US";10428;43
+"Idaho";"US";3385;55
+"Idaho";"US";7213;119
+"Idaho";"US";647;10
+"Idaho";"US";1820;43
+"Idaho";"US";4486;75
+"Idaho";"US";1180;17
+"Idaho";"US";2276;70
+"Idaho";"US";2280;8
+"Idaho";"US";17650;252
+"Idaho";"US";0;0
+"Idaho";"US";1935;13
+"Idaho";"US";1988;51
+"Illinois";"US";18752;183
+"Illinois";"US";987;13
+"Illinois";"US";3630;28
+"Illinois";"US";11384;95
+"Illinois";"US";1398;13
+"Illinois";"US";6827;114
+"Illinois";"US";1288;4
+"Illinois";"US";3348;42
+"Illinois";"US";3789;32
+"Illinois";"US";48884;238
+"Illinois";"US";8182;99
+"Illinois";"US";3775;47
+"Illinois";"US";3861;60
+"Illinois";"US";10171;108
+"Illinois";"US";12190;147
+"Illinois";"US";986858;12503
+"Illinois";"US";4446;37
+"Illinois";"US";2705;32
+"Illinois";"US";3585;33
+"Illinois";"US";19193;161
+"Illinois";"US";5082;44
+"Illinois";"US";174516;1507
+"Illinois";"US";4050;55
+"Illinois";"US";1413;23
+"Illinois";"US";9070;116
+"Illinois";"US";5847;80
+"Illinois";"US";3718;62
+"Illinois";"US";9645;139
+"Illinois";"US";8028;102
+"Illinois";"US";1025;10
+"Illinois";"US";3095;40
+"Illinois";"US";11214;111
+"Illinois";"US";1728;26
+"Illinois";"US";3629;41
+"Illinois";"US";853;18
+"Illinois";"US";964;15
+"Illinois";"US";10375;99
+"Illinois";"US";6180;94
+"Illinois";"US";11996;103
+"Illinois";"US";2203;24
+"Illinois";"US";8652;155
+"Illinois";"US";5221;58
+"Illinois";"US";3300;32
+"Illinois";"US";3067;37
+"Illinois";"US";103086;984
+"Illinois";"US";25652;331
+"Illinois";"US";26259;132
+"Illinois";"US";10900;190
+"Illinois";"US";23961;338
+"Illinois";"US";122497;1187
+"Illinois";"US";4334;39
+"Illinois";"US";7198;71
+"Illinois";"US";8930;119
+"Illinois";"US";7760;78
+"Illinois";"US";24815;289
+"Illinois";"US";10387;125
+"Illinois";"US";59412;679
+"Illinois";"US";9766;175
+"Illinois";"US";2319;26
+"Illinois";"US";3192;56
+"Illinois";"US";2957;61
+"Illinois";"US";5444;74
+"Illinois";"US";56338;384
+"Illinois";"US";40098;257
+"Illinois";"US";2873;17
+"Illinois";"US";3255;38
+"Illinois";"US";7951;111
+"Illinois";"US";7716;89
+"Illinois";"US";7496;107
+"Illinois";"US";3410;40
+"Illinois";"US";11655;119
+"Illinois";"US";16;0
+"Illinois";"US";40702;443
+"Illinois";"US";5596;87
+"Illinois";"US";3613;18
+"Illinois";"US";4163;61
+"Illinois";"US";776;7
+"Illinois";"US";1369;15
+"Illinois";"US";931;7
+"Illinois";"US";7508;109
+"Illinois";"US";4053;67
+"Illinois";"US";28251;417
+"Illinois";"US";5981;80
+"Illinois";"US";44096;322
+"Illinois";"US";1627;15
+"Illinois";"US";1086;9
+"Illinois";"US";5082;60
+"Illinois";"US";54615;657
+"Illinois";"US";1203;30
+"Illinois";"US";9586;136
+"Illinois";"US";31464;402
+"Illinois";"US";204;2433
+"Illinois";"US";4146;57
+"Illinois";"US";23027;249
+"Illinois";"US";2858;19
+"Illinois";"US";3462;73
+"Illinois";"US";2893;31
+"Illinois";"US";4069;70
+"Illinois";"US";3544;35
+"Illinois";"US";12473;204
+"Illinois";"US";141602;1306
+"Illinois";"US";17016;214
+"Illinois";"US";64043;704
+"Illinois";"US";8800;99
+"Indiana";"US";6382;101
+"Indiana";"US";87824;1002
+"Indiana";"US";16862;210
+"Indiana";"US";2082;21
+"Indiana";"US";2607;54
+"Indiana";"US";12862;136
+"Indiana";"US";2183;54
+"Indiana";"US";3618;49
+"Indiana";"US";9575;142
+"Indiana";"US";24590;317
+"Indiana";"US";5777;73
+"Indiana";"US";7784;93
+"Indiana";"US";2062;31
+"Indiana";"US";6138;126
+"Indiana";"US";9693;128
+"Indiana";"US";11068;112
+"Indiana";"US";5631;117
+"Indiana";"US";20549;363
+"Indiana";"US";10523;151
+"Indiana";"US";47294;621
+"Indiana";"US";5539;119
+"Indiana";"US";14994;251
+"Indiana";"US";4547;79
+"Indiana";"US";3642;50
+"Indiana";"US";4202;90
+"Indiana";"US";8844;125
+"Indiana";"US";14613;292
+"Indiana";"US";5797;110
+"Indiana";"US";68659;538
+"Indiana";"US";17657;216
+"Indiana";"US";8482;111
+"Indiana";"US";33886;453
+"Indiana";"US";11126;200
+"Indiana";"US";20860;371
+"Indiana";"US";9607;138
+"Indiana";"US";9813;104
+"Indiana";"US";7919;113
+"Indiana";"US";3946;64
+"Indiana";"US";7423;123
+"Indiana";"US";5588;76
+"Indiana";"US";36032;514
+"Indiana";"US";8495;124
+"Indiana";"US";17255;199
+"Indiana";"US";5012;96
+"Indiana";"US";22358;306
+"Indiana";"US";97579;1451
+"Indiana";"US";9655;219
+"Indiana";"US";27416;526
+"Indiana";"US";194915;2485
+"Indiana";"US";10880;165
+"Indiana";"US";1764;20
+"Indiana";"US";7726;132
+"Indiana";"US";21435;241
+"Indiana";"US";8743;140
+"Indiana";"US";13449;228
+"Indiana";"US";2241;59
+"Indiana";"US";11151;140
+"Indiana";"US";1135;16
+"Indiana";"US";4024;82
+"Indiana";"US";4614;94
+"Indiana";"US";2991;38
+"Indiana";"US";3567;55
+"Indiana";"US";3020;45
+"Indiana";"US";33396;456
+"Indiana";"US";5111;46
+"Indiana";"US";2604;73
+"Indiana";"US";7795;97
+"Indiana";"US";4840;127
+"Indiana";"US";6842;111
+"Indiana";"US";3843;36
+"Indiana";"US";6127;86
+"Indiana";"US";10964;150
+"Indiana";"US";4314;56
+"Indiana";"US";61968;744
+"Indiana";"US";4283;86
+"Indiana";"US";8145;101
+"Indiana";"US";4210;63
+"Indiana";"US";1850;14
+"Indiana";"US";40839;330
+"Indiana";"US";3024;73
+"Indiana";"US";0;735
+"Indiana";"US";1584;19
+"Indiana";"US";44322;523
+"Indiana";"US";3397;62
+"Indiana";"US";24297;340
+"Indiana";"US";7431;138
+"Indiana";"US";1666;20
+"Indiana";"US";15465;211
+"Indiana";"US";4693;66
+"Indiana";"US";15279;296
+"Indiana";"US";5744;119
+"Indiana";"US";5888;78
+"Indiana";"US";8251;71
+"Iowa";"US";1386;46
+"Iowa";"US";661;12
+"Iowa";"US";2475;58
+"Iowa";"US";2412;60
+"Iowa";"US";912;18
+"Iowa";"US";5067;68
+"Iowa";"US";27397;417
+"Iowa";"US";4638;46
+"Iowa";"US";4683;75
+"Iowa";"US";3777;46
+"Iowa";"US";5408;51
+"Iowa";"US";2704;48
+"Iowa";"US";2227;20
+"Iowa";"US";4180;58
+"Iowa";"US";2587;73
+"Iowa";"US";3282;27
+"Iowa";"US";9441;146
+"Iowa";"US";2485;54
+"Iowa";"US";2248;27
+"Iowa";"US";1878;31
+"Iowa";"US";3354;40
+"Iowa";"US";2949;67
+"Iowa";"US";9540;124
+"Iowa";"US";3979;49
+"Iowa";"US";18569;125
+"Iowa";"US";1423;27
+"Iowa";"US";1232;22
+"Iowa";"US";3493;64
+"Iowa";"US";7807;115
+"Iowa";"US";3586;61
+"Iowa";"US";22044;271
+"Iowa";"US";2044;49
+"Iowa";"US";3400;62
+"Iowa";"US";2951;58
+"Iowa";"US";2116;35
+"Iowa";"US";1120;19
+"Iowa";"US";1452;19
+"Iowa";"US";2129;39
+"Iowa";"US";1958;41
+"Iowa";"US";2962;63
+"Iowa";"US";2486;45
+"Iowa";"US";3391;55
+"Iowa";"US";2826;85
+"Iowa";"US";4736;58
+"Iowa";"US";1742;26
+"Iowa";"US";2329;35
+"Iowa";"US";1498;44
+"Iowa";"US";2874;38
+"Iowa";"US";3958;61
+"Iowa";"US";7255;95
+"Iowa";"US";2747;46
+"Iowa";"US";26203;119
+"Iowa";"US";4685;68
+"Iowa";"US";1737;44
+"Iowa";"US";3427;83
+"Iowa";"US";6707;116
+"Iowa";"US";42037;487
+"Iowa";"US";2113;56
+"Iowa";"US";1453;29
+"Iowa";"US";2407;44
+"Iowa";"US";2694;28
+"Iowa";"US";4210;74
+"Iowa";"US";6433;108
+"Iowa";"US";7774;95
+"Iowa";"US";2649;33
+"Iowa";"US";2135;48
+"Iowa";"US";1390;41
+"Iowa";"US";1625;43
+"Iowa";"US";1792;48
+"Iowa";"US";7895;122
+"Iowa";"US";2867;67
+"Iowa";"US";1208;20
+"Iowa";"US";2985;39
+"Iowa";"US";1737;33
+"Iowa";"US";5500;93
+"Iowa";"US";1367;25
+"Iowa";"US";98575;902
+"Iowa";"US";19245;258
+"Iowa";"US";2861;52
+"Iowa";"US";922;31
+"Iowa";"US";1991;28
+"Iowa";"US";34105;328
+"Iowa";"US";2305;46
+"Iowa";"US";6978;78
+"Iowa";"US";16084;69
+"Iowa";"US";3283;81
+"Iowa";"US";1116;21
+"Iowa";"US";19135;0
+"Iowa";"US";2311;45
+"Iowa";"US";1154;24
+"Iowa";"US";7515;164
+"Iowa";"US";10139;117
+"Iowa";"US";4721;69
+"Iowa";"US";1017;26
+"Iowa";"US";8936;137
+"Iowa";"US";2554;41
+"Iowa";"US";3219;45
+"Iowa";"US";23750;293
+"Iowa";"US";1454;10
+"Iowa";"US";3212;54
+"Kansas";"US";3040;27
+"Kansas";"US";1710;23
+"Kansas";"US";3473;30
+"Kansas";"US";794;7
+"Kansas";"US";5164;72
+"Kansas";"US";3552;44
+"Kansas";"US";2282;43
+"Kansas";"US";15492;147
+"Kansas";"US";548;6
+"Kansas";"US";701;16
+"Kansas";"US";4690;80
+"Kansas";"US";575;14
+"Kansas";"US";431;7
+"Kansas";"US";1620;32
+"Kansas";"US";1956;34
+"Kansas";"US";1963;35
+"Kansas";"US";390;13
+"Kansas";"US";8491;137
+"Kansas";"US";9329;107
+"Kansas";"US";553;16
+"Kansas";"US";3913;63
+"Kansas";"US";1933;32
+"Kansas";"US";19418;116
+"Kansas";"US";510;13
+"Kansas";"US";432;7
+"Kansas";"US";5815;78
+"Kansas";"US";1740;30
+"Kansas";"US";9506;105
+"Kansas";"US";9083;101
+"Kansas";"US";5832;67
+"Kansas";"US";6878;63
+"Kansas";"US";664;23
+"Kansas";"US";433;13
+"Kansas";"US";1841;33
+"Kansas";"US";1064;23
+"Kansas";"US";262;3
+"Kansas";"US";1440;18
+"Kansas";"US";390;3
+"Kansas";"US";1441;24
+"Kansas";"US";7510;108
+"Kansas";"US";796;9
+"Kansas";"US";350;10
+"Kansas";"US";3178;21
+"Kansas";"US";3852;54
+"Kansas";"US";682;13
+"Kansas";"US";114647;1049
+"Kansas";"US";1096;18
+"Kansas";"US";1651;24
+"Kansas";"US";531;7
+"Kansas";"US";5049;67
+"Kansas";"US";246;10
+"Kansas";"US";14781;153
+"Kansas";"US";516;7
+"Kansas";"US";2337;23
+"Kansas";"US";692;9
+"Kansas";"US";7797;103
+"Kansas";"US";2624;36
+"Kansas";"US";2188;37
+"Kansas";"US";6231;111
+"Kansas";"US";996;15
+"Kansas";"US";6236;76
+"Kansas";"US";1073;18
+"Kansas";"US";7183;128
+"Kansas";"US";1178;23
+"Kansas";"US";542;10
+"Kansas";"US";2749;60
+"Kansas";"US";3900;56
+"Kansas";"US";674;17
+"Kansas";"US";1755;35
+"Kansas";"US";3179;40
+"Kansas";"US";649;15
+"Kansas";"US";974;15
+"Kansas";"US";0;0
+"Kansas";"US";1772;21
+"Kansas";"US";1169;28
+"Kansas";"US";4451;48
+"Kansas";"US";1641;29
+"Kansas";"US";613;8
+"Kansas";"US";15403;194
+"Kansas";"US";1129;14
+"Kansas";"US";2106;17
+"Kansas";"US";10372;68
+"Kansas";"US";1094;17
+"Kansas";"US";672;16
+"Kansas";"US";1608;34
+"Kansas";"US";11504;206
+"Kansas";"US";1060;32
+"Kansas";"US";118097;1110
+"Kansas";"US";6348;56
+"Kansas";"US";37597;494
+"Kansas";"US";675;17
+"Kansas";"US";1291;18
+"Kansas";"US";566;5
+"Kansas";"US";940;24
+"Kansas";"US";375;7
+"Kansas";"US";1221;17
+"Kansas";"US";4622;63
+"Kansas";"US";1975;23
+"Kansas";"US";637;9
+"Kansas";"US";0;0
+"Kansas";"US";1402;20
+"Kansas";"US";373;5
+"Kansas";"US";1136;17
+"Kansas";"US";400;8
+"Kansas";"US";2173;35
+"Kansas";"US";647;10
+"Kansas";"US";39432;411
+"Kentucky";"US";4232;93
+"Kentucky";"US";4860;85
+"Kentucky";"US";4643;58
+"Kentucky";"US";929;26
+"Kentucky";"US";9987;186
+"Kentucky";"US";2143;34
+"Kentucky";"US";6651;121
+"Kentucky";"US";28924;236
+"Kentucky";"US";4305;45
+"Kentucky";"US";11645;135
+"Kentucky";"US";6401;118
+"Kentucky";"US";1641;22
+"Kentucky";"US";2480;48
+"Kentucky";"US";3803;58
+"Kentucky";"US";16144;166
+"Kentucky";"US";2827;44
+"Kentucky";"US";2936;55
+"Kentucky";"US";6307;72
+"Kentucky";"US";18008;124
+"Kentucky";"US";803;15
+"Kentucky";"US";2663;38
+"Kentucky";"US";6083;86
+"Kentucky";"US";3136;63
+"Kentucky";"US";12245;179
+"Kentucky";"US";7159;50
+"Kentucky";"US";5645;69
+"Kentucky";"US";2634;41
+"Kentucky";"US";1613;39
+"Kentucky";"US";1659;22
+"Kentucky";"US";22901;322
+"Kentucky";"US";1946;35
+"Kentucky";"US";1536;14
+"Kentucky";"US";2796;38
+"Kentucky";"US";70895;489
+"Kentucky";"US";2778;44
+"Kentucky";"US";8698;150
+"Kentucky";"US";9761;119
+"Kentucky";"US";949;23
+"Kentucky";"US";1740;44
+"Kentucky";"US";3537;61
+"Kentucky";"US";5518;42
+"Kentucky";"US";8691;142
+"Kentucky";"US";5809;109
+"Kentucky";"US";2803;36
+"Kentucky";"US";8737;112
+"Kentucky";"US";1875;19
+"Kentucky";"US";23959;361
+"Kentucky";"US";6651;165
+"Kentucky";"US";4500;57
+"Kentucky";"US";4310;85
+"Kentucky";"US";10018;135
+"Kentucky";"US";3604;39
+"Kentucky";"US";648;22
+"Kentucky";"US";10495;223
+"Kentucky";"US";3233;60
+"Kentucky";"US";169081;1888
+"Kentucky";"US";11224;115
+"Kentucky";"US";4466;82
+"Kentucky";"US";33447;324
+"Kentucky";"US";2833;50
+"Kentucky";"US";8452;112
+"Kentucky";"US";2828;58
+"Kentucky";"US";14695;185
+"Kentucky";"US";3385;50
+"Kentucky";"US";1991;44
+"Kentucky";"US";2561;38
+"Kentucky";"US";4802;86
+"Kentucky";"US";3391;71
+"Kentucky";"US";5010;108
+"Kentucky";"US";1763;49
+"Kentucky";"US";6344;99
+"Kentucky";"US";2191;31
+"Kentucky";"US";20842;221
+"Kentucky";"US";2861;36
+"Kentucky";"US";4965;64
+"Kentucky";"US";6181;90
+"Kentucky";"US";2369;41
+"Kentucky";"US";3438;85
+"Kentucky";"US";13190;205
+"Kentucky";"US";4170;66
+"Kentucky";"US";1956;44
+"Kentucky";"US";4244;55
+"Kentucky";"US";1122;27
+"Kentucky";"US";5435;95
+"Kentucky";"US";2319;53
+"Kentucky";"US";2882;69
+"Kentucky";"US";5317;81
+"Kentucky";"US";3314;17
+"Kentucky";"US";7335;102
+"Kentucky";"US";10926;119
+"Kentucky";"US";1463;29
+"Kentucky";"US";5516;91
+"Kentucky";"US";13809;114
+"Kentucky";"US";1863;29
+"Kentucky";"US";1099;23
+"Kentucky";"US";2754;31
+"Kentucky";"US";7325;135
+"Kentucky";"US";13153;231
+"Kentucky";"US";3457;30
+"Kentucky";"US";12721;230
+"Kentucky";"US";488;19
+"Kentucky";"US";3803;49
+"Kentucky";"US";4842;48
+"Kentucky";"US";4657;67
+"Kentucky";"US";11460;78
+"Kentucky";"US";9614;132
+"Kentucky";"US";4332;74
+"Kentucky";"US";3892;44
+"Kentucky";"US";6821;103
+"Kentucky";"US";2254;39
+"Kentucky";"US";2767;32
+"Kentucky";"US";1715;30
+"Kentucky";"US";8;0
+"Kentucky";"US";3328;48
+"Kentucky";"US";33165;310
+"Kentucky";"US";2980;53
+"Kentucky";"US";3919;74
+"Kentucky";"US";2946;46
+"Kentucky";"US";10475;142
+"Kentucky";"US";1630;15
+"Kentucky";"US";4866;38
+"Louisiana";"US";12748;258
+"Louisiana";"US";5640;119
+"Louisiana";"US";28732;253
+"Louisiana";"US";4615;57
+"Louisiana";"US";9013;179
+"Louisiana";"US";7117;131
+"Louisiana";"US";3078;100
+"Louisiana";"US";29349;417
+"Louisiana";"US";54330;1000
+"Louisiana";"US";43421;641
+"Louisiana";"US";2525;43
+"Louisiana";"US";1011;8
+"Louisiana";"US";2148;49
+"Louisiana";"US";2558;67
+"Louisiana";"US";3956;80
+"Louisiana";"US";5978;119
+"Louisiana";"US";90180;1191
+"Louisiana";"US";1949;33
+"Louisiana";"US";5664;153
+"Louisiana";"US";6883;145
+"Louisiana";"US";5522;144
+"Louisiana";"US";4482;80
+"Louisiana";"US";15637;234
+"Louisiana";"US";7457;129
+"Louisiana";"US";3329;65
+"Louisiana";"US";96446;1204
+"Louisiana";"US";5607;133
+"Louisiana";"US";3193;46
+"Louisiana";"US";49344;420
+"Louisiana";"US";22342;323
+"Louisiana";"US";9251;121
+"Louisiana";"US";29998;398
+"Louisiana";"US";2729;55
+"Louisiana";"US";5510;120
+"Louisiana";"US";8325;142
+"Louisiana";"US";73255;1019
+"Louisiana";"US";39411;618
+"Louisiana";"US";0;0
+"Louisiana";"US";5360;41
+"Louisiana";"US";4813;85
+"Louisiana";"US";26513;488
+"Louisiana";"US";1779;49
+"Louisiana";"US";5080;81
+"Louisiana";"US";5341;100
+"Louisiana";"US";9520;101
+"Louisiana";"US";11761;129
+"Louisiana";"US";1524;20
+"Louisiana";"US";4564;71
+"Louisiana";"US";8801;173
+"Louisiana";"US";17275;354
+"Louisiana";"US";10471;164
+"Louisiana";"US";10524;236
+"Louisiana";"US";58119;748
+"Louisiana";"US";28122;538
+"Louisiana";"US";756;10
+"Louisiana";"US";24742;369
+"Louisiana";"US";799;0
+"Louisiana";"US";5228;114
+"Louisiana";"US";12349;196
+"Louisiana";"US";7600;168
+"Louisiana";"US";10046;222
+"Louisiana";"US";8668;155
+"Louisiana";"US";5939;79
+"Louisiana";"US";2509;53
+"Louisiana";"US";2370;41
+"Louisiana";"US";3317;58
+"Maine";"US";16536;179
+"Maine";"US";7840;111
+"Maine";"US";31865;281
+"Maine";"US";4140;46
+"Maine";"US";4805;68
+"Maine";"US";15656;169
+"Maine";"US";3679;20
+"Maine";"US";3335;16
+"Maine";"US";0;0
+"Maine";"US";8212;112
+"Maine";"US";18734;241
+"Maine";"US";2121;23
+"Maine";"US";3272;24
+"Maine";"US";6919;78
+"Maine";"US";10;0
+"Maine";"US";4074;47
+"Maine";"US";2945;43
+"Maine";"US";26714;200
+"Maryland";"US";14063;305
+"Maryland";"US";79221;893
+"Maryland";"US";118479;2130
+"Maryland";"US";99655;1512
+"Maryland";"US";9411;112
+"Maryland";"US";5069;61
+"Maryland";"US";18516;341
+"Maryland";"US";12953;223
+"Maryland";"US";24056;290
+"Maryland";"US";6477;95
+"Maryland";"US";39722;438
+"Maryland";"US";4833;102
+"Maryland";"US";33593;469
+"Maryland";"US";37703;312
+"Maryland";"US";2552;61
+"Maryland";"US";145525;1828
+"Maryland";"US";154120;1869
+"Maryland";"US";6091;94
+"Maryland";"US";4440;62
+"Maryland";"US";15604;186
+"Maryland";"US";4609;70
+"Maryland";"US";994;261
+"Maryland";"US";30371;495
+"Maryland";"US";16450;261
+"Maryland";"US";7295;138
+"Massachusetts";"US";29315;578
+"Massachusetts";"US";17033;352
+"Massachusetts";"US";127883;2150
+"Massachusetts";"US";5720;8
+"Massachusetts";"US";181006;2831
+"Massachusetts";"US";7419;139
+"Massachusetts";"US";109848;1821
+"Massachusetts";"US";20218;362
+"Massachusetts";"US";270534;4228
+"Massachusetts";"US";110351;2004
+"Massachusetts";"US";99803;1736
+"Massachusetts";"US";177968;2055
+"Massachusetts";"US";109629;7
+"Massachusetts";"US";159556;2668
+"Michigan";"US";1516;60
+"Michigan";"US";1339;11
+"Michigan";"US";22475;293
+"Michigan";"US";4797;120
+"Michigan";"US";3569;52
+"Michigan";"US";2611;56
+"Michigan";"US";1690;49
+"Michigan";"US";11798;138
+"Michigan";"US";21690;510
+"Michigan";"US";2719;57
+"Michigan";"US";29149;432
+"Michigan";"US";9214;150
+"Michigan";"US";27744;496
+"Michigan";"US";9779;117
+"Michigan";"US";4063;54
+"Michigan";"US";3994;85
+"Michigan";"US";6266;74
+"Michigan";"US";5535;143
+"Michigan";"US";16252;175
+"Michigan";"US";2090;23
+"Michigan";"US";8014;139
+"Michigan";"US";5843;95
+"Michigan";"US";21271;336
+"Michigan";"US";5183;65
+"Michigan";"US";323;5
+"Michigan";"US";84530;1446
+"Michigan";"US";4619;102
+"Michigan";"US";2640;63
+"Michigan";"US";13847;190
+"Michigan";"US";8592;165
+"Michigan";"US";8692;178
+"Michigan";"US";6392;77
+"Michigan";"US";6779;130
+"Michigan";"US";50641;625
+"Michigan";"US";13351;148
+"Michigan";"US";4122;119
+"Michigan";"US";2062;74
+"Michigan";"US";12795;174
+"Michigan";"US";32766;462
+"Michigan";"US";47998;573
+"Michigan";"US";2793;48
+"Michigan";"US";140583;1331
+"Michigan";"US";419;11
+"Michigan";"US";1492;32
+"Michigan";"US";17306;356
+"Michigan";"US";2890;43
+"Michigan";"US";20127;265
+"Michigan";"US";38293;379
+"Michigan";"US";1150;5
+"Michigan";"US";1936;25
+"Michigan";"US";193492;3393
+"Michigan";"US";2809;66
+"Michigan";"US";11340;100
+"Michigan";"US";5210;74
+"Michigan";"US";6966;88
+"Michigan";"US";4613;64
+"Michigan";"US";30891;165
+"Michigan";"US";15334;195
+"Michigan";"US";2376;54
+"Michigan";"US";32120;394
+"Michigan";"US";12475;177
+"Michigan";"US";1443;43
+"Michigan";"US";33409;536
+"Michigan";"US";9479;133
+"Michigan";"US";237946;3295
+"Michigan";"US";5267;84
+"Michigan";"US";3603;85
+"Michigan";"US";852;30
+"Michigan";"US";4167;67
+"Michigan";"US";1237;51
+"Michigan";"US";4633;87
+"Michigan";"US";62279;689
+"Michigan";"US";5285;35
+"Michigan";"US";1836;52
+"Michigan";"US";3896;108
+"Michigan";"US";40391;825
+"Michigan";"US";7409;170
+"Michigan";"US";1393;9
+"Michigan";"US";14447;199
+"Michigan";"US";34694;714
+"Michigan";"US";11628;172
+"Michigan";"US";10959;251
+"Michigan";"US";8;0
+"Michigan";"US";14258;230
+"Michigan";"US";58798;437
+"Michigan";"US";335961;6791
+"Michigan";"US";5413;90
+"Minnesota";"US";2516;56
+"Minnesota";"US";79802;710
+"Minnesota";"US";6953;82
+"Minnesota";"US";9370;112
+"Minnesota";"US";10887;146
+"Minnesota";"US";1098;7
+"Minnesota";"US";13767;84
+"Minnesota";"US";5314;69
+"Minnesota";"US";6431;82
+"Minnesota";"US";20872;93
+"Minnesota";"US";5618;66
+"Minnesota";"US";2449;43
+"Minnesota";"US";11751;106
+"Minnesota";"US";14482;114
+"Minnesota";"US";1750;27
+"Minnesota";"US";421;1
+"Minnesota";"US";2630;37
+"Minnesota";"US";12848;148
+"Minnesota";"US";86475;687
+"Minnesota";"US";4342;14
+"Minnesota";"US";8972;109
+"Minnesota";"US";3018;44
+"Minnesota";"US";3725;18
+"Minnesota";"US";6973;57
+"Minnesota";"US";10125;112
+"Minnesota";"US";1180;12
+"Minnesota";"US";236645;2263
+"Minnesota";"US";3463;18
+"Minnesota";"US";3986;52
+"Minnesota";"US";8375;101
+"Minnesota";"US";8995;123
+"Minnesota";"US";1826;16
+"Minnesota";"US";2966;48
+"Minnesota";"US";11043;124
+"Minnesota";"US";896;25
+"Minnesota";"US";2087;32
+"Minnesota";"US";1408;27
+"Minnesota";"US";1570;26
+"Minnesota";"US";600;5
+"Minnesota";"US";5339;45
+"Minnesota";"US";1007;5
+"Minnesota";"US";5990;68
+"Minnesota";"US";1224;17
+"Minnesota";"US";1721;23
+"Minnesota";"US";4478;53
+"Minnesota";"US";8380;97
+"Minnesota";"US";4953;70
+"Minnesota";"US";6107;100
+"Minnesota";"US";7459;92
+"Minnesota";"US";9121;58
+"Minnesota";"US";1717;15
+"Minnesota";"US";6153;63
+"Minnesota";"US";5820;56
+"Minnesota";"US";1139;11
+"Minnesota";"US";29341;148
+"Minnesota";"US";10935;148
+"Minnesota";"US";2809;34
+"Minnesota";"US";5905;56
+"Minnesota";"US";1715;31
+"Minnesota";"US";6701;92
+"Minnesota";"US";2382;14
+"Minnesota";"US";97537;1174
+"Minnesota";"US";770;11
+"Minnesota";"US";3193;50
+"Minnesota";"US";3014;52
+"Minnesota";"US";13712;154
+"Minnesota";"US";1977;32
+"Minnesota";"US";3595;38
+"Minnesota";"US";32518;221
+"Minnesota";"US";22511;161
+"Minnesota";"US";2915;23
+"Minnesota";"US";35602;469
+"Minnesota";"US";40702;329
+"Minnesota";"US";8117;47
+"Minnesota";"US";2058;11
+"Minnesota";"US";1872;30
+"Minnesota";"US";5592;54
+"Minnesota";"US";659;8
+"Minnesota";"US";3489;140
+"Minnesota";"US";4399;13
+"Minnesota";"US";3394;45
+"Minnesota";"US";4506;36
+"Minnesota";"US";52017;421
+"Minnesota";"US";2276;22
+"Minnesota";"US";1342;19
+"Minnesota";"US";9620;63
+"Minnesota";"US";30709;271
+"Minnesota";"US";2125;25
+"Mississippi";"US";5600;125
+"Mississippi";"US";7469;120
+"Mississippi";"US";2534;59
+"Mississippi";"US";3939;90
+"Mississippi";"US";1856;42
+"Mississippi";"US";7590;155
+"Mississippi";"US";3559;52
+"Mississippi";"US";2165;42
+"Mississippi";"US";4163;79
+"Mississippi";"US";1583;27
+"Mississippi";"US";1749;41
+"Mississippi";"US";3391;96
+"Mississippi";"US";4126;78
+"Mississippi";"US";5472;114
+"Mississippi";"US";5711;95
+"Mississippi";"US";5766;98
+"Mississippi";"US";41451;463
+"Mississippi";"US";16865;266
+"Mississippi";"US";1512;34
+"Mississippi";"US";5772;80
+"Mississippi";"US";2505;50
+"Mississippi";"US";4531;113
+"Mississippi";"US";9411;141
+"Mississippi";"US";41378;574
+"Mississippi";"US";44333;665
+"Mississippi";"US";3641;94
+"Mississippi";"US";1688;39
+"Mississippi";"US";202;7
+"Mississippi";"US";5732;115
+"Mississippi";"US";29940;398
+"Mississippi";"US";3956;66
+"Mississippi";"US";1213;35
+"Mississippi";"US";2316;43
+"Mississippi";"US";16691;250
+"Mississippi";"US";1727;42
+"Mississippi";"US";11520;149
+"Mississippi";"US";13445;142
+"Mississippi";"US";14909;325
+"Mississippi";"US";2790;44
+"Mississippi";"US";5009;92
+"Mississippi";"US";21493;255
+"Mississippi";"US";6544;145
+"Mississippi";"US";6484;139
+"Mississippi";"US";13611;201
+"Mississippi";"US";19442;289
+"Mississippi";"US";5363;119
+"Mississippi";"US";8128;150
+"Mississippi";"US";8652;185
+"Mississippi";"US";2473;59
+"Mississippi";"US";8107;211
+"Mississippi";"US";4572;85
+"Mississippi";"US";2239;45
+"Mississippi";"US";8650;141
+"Mississippi";"US";8605;141
+"Mississippi";"US";11492;246
+"Mississippi";"US";2425;57
+"Mississippi";"US";7378;159
+"Mississippi";"US";8255;118
+"Mississippi";"US";6234;89
+"Mississippi";"US";1346;28
+"Mississippi";"US";28534;418
+"Mississippi";"US";5624;101
+"Mississippi";"US";743;21
+"Mississippi";"US";5630;120
+"Mississippi";"US";3183;56
+"Mississippi";"US";4227;67
+"Mississippi";"US";5118;111
+"Mississippi";"US";2693;53
+"Mississippi";"US";5839;122
+"Mississippi";"US";5776;89
+"Mississippi";"US";4543;99
+"Mississippi";"US";2162;41
+"Mississippi";"US";0;0
+"Mississippi";"US";7628;101
+"Mississippi";"US";2701;70
+"Mississippi";"US";8320;182
+"Mississippi";"US";8614;171
+"Mississippi";"US";4811;73
+"Mississippi";"US";2493;51
+"Mississippi";"US";1539;40
+"Mississippi";"US";3969;95
+"Mississippi";"US";3125;48
+"Mississippi";"US";6653;94
+"Missouri";"US";4563;54
+"Missouri";"US";3942;42
+"Missouri";"US";1049;19
+"Missouri";"US";4808;89
+"Missouri";"US";5499;99
+"Missouri";"US";2261;42
+"Missouri";"US";3140;67
+"Missouri";"US";3331;78
+"Missouri";"US";2106;35
+"Missouri";"US";35010;209
+"Missouri";"US";18776;263
+"Missouri";"US";8231;135
+"Missouri";"US";1446;28
+"Missouri";"US";9688;100
+"Missouri";"US";7769;155
+"Missouri";"US";15228;209
+"Missouri";"US";1875;40
+"Missouri";"US";1247;19
+"Missouri";"US";20505;233
+"Missouri";"US";2347;43
+"Missouri";"US";1399;32
+"Missouri";"US";16526;214
+"Missouri";"US";1371;28
+"Missouri";"US";22138;290
+"Missouri";"US";3974;101
+"Missouri";"US";16665;244
+"Missouri";"US";3530;64
+"Missouri";"US";4599;83
+"Missouri";"US";1119;38
+"Missouri";"US";3024;62
+"Missouri";"US";1407;21
+"Missouri";"US";1874;40
+"Missouri";"US";2661;64
+"Missouri";"US";2084;68
+"Missouri";"US";5669;93
+"Missouri";"US";19599;285
+"Missouri";"US";2764;88
+"Missouri";"US";1857;28
+"Missouri";"US";55422;860
+"Missouri";"US";1988;60
+"Missouri";"US";1600;27
+"Missouri";"US";4572;66
+"Missouri";"US";1482;46
+"Missouri";"US";879;25
+"Missouri";"US";1817;21
+"Missouri";"US";7135;175
+"Missouri";"US";1752;32
+"Missouri";"US";79995;945
+"Missouri";"US";27999;458
+"Missouri";"US";46184;480
+"Missouri";"US";10031;119
+"Missouri";"US";95256;1028
+"Missouri";"US";781;10
+"Missouri";"US";6643;155
+"Missouri";"US";6576;102
+"Missouri";"US";6311;141
+"Missouri";"US";2200;31
+"Missouri";"US";13284;101
+"Missouri";"US";2128;59
+"Missouri";"US";3066;83
+"Missouri";"US";2981;39
+"Missouri";"US";2921;45
+"Missouri";"US";1306;26
+"Missouri";"US";6790;109
+"Missouri";"US";4295;62
+"Missouri";"US";572;11
+"Missouri";"US";4981;105
+"Missouri";"US";2710;51
+"Missouri";"US";3216;47
+"Missouri";"US";1839;37
+"Missouri";"US";2000;35
+"Missouri";"US";3362;79
+"Missouri";"US";3959;72
+"Missouri";"US";9526;173
+"Missouri";"US";4774;40
+"Missouri";"US";1705;27
+"Missouri";"US";2623;38
+"Missouri";"US";1438;48
+"Missouri";"US";2553;60
+"Missouri";"US";4122;42
+"Missouri";"US";9518;132
+"Missouri";"US";8542;209
+"Missouri";"US";3514;54
+"Missouri";"US";8489;83
+"Missouri";"US";6464;83
+"Missouri";"US";7121;104
+"Missouri";"US";824;20
+"Missouri";"US";2089;19
+"Missouri";"US";4854;89
+"Missouri";"US";4249;73
+"Missouri";"US";931;18
+"Missouri";"US";2289;52
+"Missouri";"US";5170;90
+"Missouri";"US";600;23
+"Missouri";"US";562;17
+"Missouri";"US";9084;139
+"Missouri";"US";1259;30
+"Missouri";"US";1259;13
+"Missouri";"US";81901;764
+"Missouri";"US";1599;29
+"Missouri";"US";15142;239
+"Missouri";"US";192949;2855
+"Missouri";"US";49275;668
+"Missouri";"US";3047;35
+"Missouri";"US";5174;112
+"Missouri";"US";4772;101
+"Missouri";"US";1416;20
+"Missouri";"US";11090;184
+"Missouri";"US";3817;76
+"Missouri";"US";0;0
+"Missouri";"US";4026;90
+"Missouri";"US";7064;85
+"Missouri";"US";4867;111
+"Missouri";"US";1978;37
+"Missouri";"US";7187;125
+"Missouri";"US";359;3
+"Missouri";"US";3132;69
+"Montana";"US";1699;24
+"Montana";"US";3522;86
+"Montana";"US";1485;28
+"Montana";"US";1053;17
+"Montana";"US";1707;23
+"Montana";"US";218;5
+"Montana";"US";17907;283
+"Montana";"US";836;11
+"Montana";"US";2524;43
+"Montana";"US";318;9
+"Montana";"US";1959;53
+"Montana";"US";1805;28
+"Montana";"US";573;10
+"Montana";"US";2008;52
+"Montana";"US";22666;228
+"Montana";"US";27325;106
+"Montana";"US";191;3
+"Montana";"US";2632;63
+"Montana";"US";125;5
+"Montana";"US";450;6
+"Montana";"US";3532;71
+"Montana";"US";2062;22
+"Montana";"US";179;1
+"Montana";"US";5057;91
+"Montana";"US";13573;158
+"Montana";"US";303;2
+"Montana";"US";3861;75
+"Montana";"US";1549;20
+"Montana";"US";326;9
+"Montana";"US";298;9
+"Montana";"US";807;14
+"Montana";"US";20163;193
+"Montana";"US";796;26
+"Montana";"US";2977;32
+"Montana";"US";28;1
+"Montana";"US";909;27
+"Montana";"US";886;6
+"Montana";"US";292;10
+"Montana";"US";1534;26
+"Montana";"US";215;3
+"Montana";"US";5841;129
+"Montana";"US";2184;30
+"Montana";"US";2431;70
+"Montana";"US";1818;58
+"Montana";"US";1774;40
+"Montana";"US";569;10
+"Montana";"US";6754;118
+"Montana";"US";1287;29
+"Montana";"US";646;8
+"Montana";"US";1040;18
+"Montana";"US";1048;21
+"Montana";"US";115;1
+"Montana";"US";0;0
+"Montana";"US";1451;32
+"Montana";"US";281;13
+"Montana";"US";182;8
+"Montana";"US";34307;481
+"Nebraska";"US";5199;46
+"Nebraska";"US";897;7
+"Nebraska";"US";29;1
+"Nebraska";"US";78;0
+"Nebraska";"US";57;0
+"Nebraska";"US";904;4
+"Nebraska";"US";1849;8
+"Nebraska";"US";332;3
+"Nebraska";"US";421;2
+"Nebraska";"US";9759;57
+"Nebraska";"US";1059;12
+"Nebraska";"US";1502;11
+"Nebraska";"US";4941;16
+"Nebraska";"US";1245;11
+"Nebraska";"US";679;5
+"Nebraska";"US";479;7
+"Nebraska";"US";1645;16
+"Nebraska";"US";1216;11
+"Nebraska";"US";2331;21
+"Nebraska";"US";1538;15
+"Nebraska";"US";1728;19
+"Nebraska";"US";5672;65
+"Nebraska";"US";1227;12
+"Nebraska";"US";4624;31
+"Nebraska";"US";271;1
+"Nebraska";"US";953;9
+"Nebraska";"US";8186;62
+"Nebraska";"US";121003;718
+"Nebraska";"US";306;4
+"Nebraska";"US";902;8
+"Nebraska";"US";367;4
+"Nebraska";"US";467;1
+"Nebraska";"US";902;5
+"Nebraska";"US";3014;19
+"Nebraska";"US";291;1
+"Nebraska";"US";332;1
+"Nebraska";"US";317;5
+"Nebraska";"US";94;4
+"Nebraska";"US";335;1
+"Nebraska";"US";13019;117
+"Nebraska";"US";1777;17
+"Nebraska";"US";347;0
+"Nebraska";"US";95;0
+"Nebraska";"US";454;5
+"Nebraska";"US";1735;16
+"Nebraska";"US";99;2
+"Nebraska";"US";946;10
+"Nebraska";"US";1055;1
+"Nebraska";"US";810;9
+"Nebraska";"US";1013;5
+"Nebraska";"US";1244;10
+"Nebraska";"US";100;0
+"Nebraska";"US";650;1
+"Nebraska";"US";1402;12
+"Nebraska";"US";59338;170
+"Nebraska";"US";7010;60
+"Nebraska";"US";122;0
+"Nebraska";"US";82;0
+"Nebraska";"US";7807;44
+"Nebraska";"US";59;1
+"Nebraska";"US";1405;15
+"Nebraska";"US";993;7
+"Nebraska";"US";670;10
+"Nebraska";"US";1247;15
+"Nebraska";"US";782;11
+"Nebraska";"US";2710;10
+"Nebraska";"US";345;1
+"Nebraska";"US";447;11
+"Nebraska";"US";1869;10
+"Nebraska";"US";1075;20
+"Nebraska";"US";7054;50
+"Nebraska";"US";956;9
+"Nebraska";"US";2017;15
+"Nebraska";"US";1417;19
+"Nebraska";"US";163;2
+"Nebraska";"US";3115;2
+"Nebraska";"US";40002;131
+"Nebraska";"US";4183;16
+"Nebraska";"US";7280;48
+"Nebraska";"US";2743;32
+"Nebraska";"US";900;10
+"Nebraska";"US";497;4
+"Nebraska";"US";63;0
+"Nebraska";"US";607;11
+"Nebraska";"US";889;4
+"Nebraska";"US";90;1
+"Nebraska";"US";1290;11
+"Nebraska";"US";3266;1310
+"Nebraska";"US";625;2
+"Nebraska";"US";3741;25
+"Nebraska";"US";1528;7
+"Nebraska";"US";617;7
+"Nebraska";"US";103;0
+"Nebraska";"US";2911;11
+"Nevada";"US";10762;188
+"Nevada";"US";4762;92
+"Nevada";"US";419141;6625
+"Nevada";"US";6019;75
+"Nevada";"US";9389;127
+"Nevada";"US";72;2
+"Nevada";"US";200;0
+"Nevada";"US";2806;46
+"Nevada";"US";833;16
+"Nevada";"US";680;5
+"Nevada";"US";8126;143
+"Nevada";"US";703;14
+"Nevada";"US";5361;202
+"Nevada";"US";1246;29
+"Nevada";"US";269;8
+"Nevada";"US";0;0
+"Nevada";"US";77453;1036
+"Nevada";"US";1376;18
+"New Hampshire";"US";10508;153
+"New Hampshire";"US";7387;35
+"New Hampshire";"US";10813;86
+"New Hampshire";"US";5133;87
+"New Hampshire";"US";11851;50
+"New Hampshire";"US";77671;800
+"New Hampshire";"US";24667;180
+"New Hampshire";"US";52522;433
+"New Hampshire";"US";21920;172
+"New Hampshire";"US";6982;57
+"New Hampshire";"US";6444;26
+"New Jersey";"US";60570;860
+"New Jersey";"US";199476;3177
+"New Jersey";"US";89854;1045
+"New Jersey";"US";111665;1583
+"New Jersey";"US";19711;266
+"New Jersey";"US";32368;542
+"New Jersey";"US";195604;3305
+"New Jersey";"US";61970;823
+"New Jersey";"US";154616;2515
+"New Jersey";"US";21660;220
+"New Jersey";"US";66737;1120
+"New Jersey";"US";170825;2651
+"New Jersey";"US";148425;1884
+"New Jersey";"US";105686;1390
+"New Jersey";"US";145782;2577
+"New Jersey";"US";132081;2150
+"New Jersey";"US";12551;221
+"New Jersey";"US";60945;919
+"New Jersey";"US";30496;389
+"New Jersey";"US";5654;0
+"New Jersey";"US";130991;2145
+"New Jersey";"US";21390;297
+"New Mexico";"US";113944;1415
+"New Mexico";"US";323;11
+"New Mexico";"US";17426;252
+"New Mexico";"US";5081;162
+"New Mexico";"US";1953;55
+"New Mexico";"US";9948;146
+"New Mexico";"US";462;3
+"New Mexico";"US";47001;635
+"New Mexico";"US";13642;238
+"New Mexico";"US";5065;70
+"New Mexico";"US";794;15
+"New Mexico";"US";62;4
+"New Mexico";"US";848;12
+"New Mexico";"US";16759;298
+"New Mexico";"US";4153;51
+"New Mexico";"US";1501;12
+"New Mexico";"US";5294;110
+"New Mexico";"US";19773;543
+"New Mexico";"US";541;14
+"New Mexico";"US";10126;152
+"New Mexico";"US";1726;35
+"New Mexico";"US";7304;104
+"New Mexico";"US";3981;84
+"New Mexico";"US";31505;671
+"New Mexico";"US";4089;40
+"New Mexico";"US";24490;325
+"New Mexico";"US";20553;215
+"New Mexico";"US";1624;65
+"New Mexico";"US";2865;71
+"New Mexico";"US";3775;75
+"New Mexico";"US";2150;41
+"New Mexico";"US";5521;0
+"New Mexico";"US";612;12
+"New Mexico";"US";14048;209
+"New York";"US";50940;456
+"New York";"US";7669;140
+"New York";"US";369814;7109
+"New York";"US";39317;481
+"New York";"US";12956;197
+"New York";"US";13689;125
+"New York";"US";20341;237
+"New York";"US";18314;202
+"New York";"US";7798;105
+"New York";"US";12662;62
+"New York";"US";8464;127
+"New York";"US";8731;93
+"New York";"US";6548;62
+"New York";"US";57058;565
+"New York";"US";184143;2334
+"New York";"US";4547;52
+"New York";"US";7533;36
+"New York";"US";10473;136
+"New York";"US";12030;167
+"New York";"US";7466;106
+"New York";"US";734;4
+"New York";"US";11860;167
+"New York";"US";16135;119
+"New York";"US";620611;11563
+"New York";"US";5430;43
+"New York";"US";9947;97
+"New York";"US";10797;118
+"New York";"US";135739;1395
+"New York";"US";10027;180
+"New York";"US";371873;3548
+"New York";"US";362489;4893
+"New York";"US";42282;497
+"New York";"US";45927;721
+"New York";"US";91347;922
+"New York";"US";16805;156
+"New York";"US";96264;1020
+"New York";"US";7563;105
+"New York";"US";20814;156
+"New York";"US";8146;74
+"New York";"US";0;406
+"New York";"US";21431;112
+"New York";"US";581524;10874
+"New York";"US";26560;227
+"New York";"US";151096;2069
+"New York";"US";83819;837
+"New York";"US";38907;288
+"New York";"US";28087;277
+"New York";"US";4111;31
+"New York";"US";2907;23
+"New York";"US";4775;85
+"New York";"US";17267;164
+"New York";"US";16747;224
+"New York";"US";395134;4006
+"New York";"US";16101;110
+"New York";"US";9049;79
+"New York";"US";14460;74
+"New York";"US";27133;323
+"New York";"US";370;1
+"New York";"US";11407;114
+"New York";"US";10141;98
+"New York";"US";14502;139
+"New York";"US";229897;2504
+"New York";"US";7336;75
+"New York";"US";2812;36
+"North Carolina";"US";36733;377
+"North Carolina";"US";8185;120
+"North Carolina";"US";2305;10
+"North Carolina";"US";5000;86
+"North Carolina";"US";4617;62
+"North Carolina";"US";3527;39
+"North Carolina";"US";9098;140
+"North Carolina";"US";3375;57
+"North Carolina";"US";6995;100
+"North Carolina";"US";21758;260
+"North Carolina";"US";38604;464
+"North Carolina";"US";19120;259
+"North Carolina";"US";43918;393
+"North Carolina";"US";17018;232
+"North Carolina";"US";1473;9
+"North Carolina";"US";10366;83
+"North Carolina";"US";4018;39
+"North Carolina";"US";36189;482
+"North Carolina";"US";9424;99
+"North Carolina";"US";5576;90
+"North Carolina";"US";3171;45
+"North Carolina";"US";1992;38
+"North Carolina";"US";23322;327
+"North Carolina";"US";12090;235
+"North Carolina";"US";17550;165
+"North Carolina";"US";60683;513
+"North Carolina";"US";3742;30
+"North Carolina";"US";5645;18
+"North Carolina";"US";33827;353
+"North Carolina";"US";8544;82
+"North Carolina";"US";12313;203
+"North Carolina";"US";52368;274
+"North Carolina";"US";11056;130
+"North Carolina";"US";71622;641
+"North Carolina";"US";14493;64
+"North Carolina";"US";51897;672
+"North Carolina";"US";1463;18
+"North Carolina";"US";1667;28
+"North Carolina";"US";10923;108
+"North Carolina";"US";4286;56
+"North Carolina";"US";90012;964
+"North Carolina";"US";11120;150
+"North Carolina";"US";24077;283
+"North Carolina";"US";9611;163
+"North Carolina";"US";19946;237
+"North Carolina";"US";3871;77
+"North Carolina";"US";10555;93
+"North Carolina";"US";981;13
+"North Carolina";"US";38581;374
+"North Carolina";"US";7135;80
+"North Carolina";"US";44106;363
+"North Carolina";"US";1648;38
+"North Carolina";"US";12111;125
+"North Carolina";"US";11696;182
+"North Carolina";"US";19211;122
+"North Carolina";"US";5926;88
+"North Carolina";"US";3611;71
+"North Carolina";"US";4599;77
+"North Carolina";"US";10333;140
+"North Carolina";"US";216517;1369
+"North Carolina";"US";2698;25
+"North Carolina";"US";5593;112
+"North Carolina";"US";18408;266
+"North Carolina";"US";21386;254
+"North Carolina";"US";36954;313
+"North Carolina";"US";3481;66
+"North Carolina";"US";35739;286
+"North Carolina";"US";17711;113
+"North Carolina";"US";2005;27
+"North Carolina";"US";6596;111
+"North Carolina";"US";11272;105
+"North Carolina";"US";2158;17
+"North Carolina";"US";6885;95
+"North Carolina";"US";39709;146
+"North Carolina";"US";2918;49
+"North Carolina";"US";27502;348
+"North Carolina";"US";9414;157
+"North Carolina";"US";31439;464
+"North Carolina";"US";16724;228
+"North Carolina";"US";32786;512
+"North Carolina";"US";13504;352
+"North Carolina";"US";14042;145
+"North Carolina";"US";7891;112
+"North Carolina";"US";15009;216
+"North Carolina";"US";8657;124
+"North Carolina";"US";16474;267
+"North Carolina";"US";2671;33
+"North Carolina";"US";5072;56
+"North Carolina";"US";733;7
+"North Carolina";"US";12366;0
+"North Carolina";"US";48328;403
+"North Carolina";"US";9372;108
+"North Carolina";"US";211060;939
+"North Carolina";"US";3266;36
+"North Carolina";"US";2243;40
+"North Carolina";"US";8746;44
+"North Carolina";"US";21854;336
+"North Carolina";"US";13568;207
+"North Carolina";"US";17072;244
+"North Carolina";"US";8467;92
+"North Carolina";"US";3929;38
+"North Dakota";"US";489;9
+"North Dakota";"US";2413;41
+"North Dakota";"US";1580;22
+"North Dakota";"US";125;1
+"North Dakota";"US";1252;24
+"North Dakota";"US";706;9
+"North Dakota";"US";382;3
+"North Dakota";"US";28431;287
+"North Dakota";"US";46858;294
+"North Dakota";"US";651;7
+"North Dakota";"US";1253;38
+"North Dakota";"US";370;3
+"North Dakota";"US";905;8
+"North Dakota";"US";658;6
+"North Dakota";"US";638;16
+"North Dakota";"US";817;20
+"North Dakota";"US";408;4
+"North Dakota";"US";17230;106
+"North Dakota";"US";422;11
+"North Dakota";"US";504;2
+"North Dakota";"US";640;7
+"North Dakota";"US";429;13
+"North Dakota";"US";849;19
+"North Dakota";"US";374;11
+"North Dakota";"US";1129;28
+"North Dakota";"US";570;9
+"North Dakota";"US";2881;23
+"North Dakota";"US";2332;47
+"North Dakota";"US";2117;22
+"North Dakota";"US";9385;134
+"North Dakota";"US";2564;32
+"North Dakota";"US";648;17
+"North Dakota";"US";279;4
+"North Dakota";"US";1639;16
+"North Dakota";"US";924;29
+"North Dakota";"US";2887;47
+"North Dakota";"US";1173;23
+"North Dakota";"US";485;15
+"North Dakota";"US";3263;21
+"North Dakota";"US";4513;36
+"North Dakota";"US";838;9
+"North Dakota";"US";244;6
+"North Dakota";"US";1115;18
+"North Dakota";"US";56;0
+"North Dakota";"US";9670;80
+"North Dakota";"US";324;2
+"North Dakota";"US";5542;92
+"North Dakota";"US";526;11
+"North Dakota";"US";1794;21
+"North Dakota";"US";0;45
+"North Dakota";"US";2745;34
+"North Dakota";"US";16726;235
+"North Dakota";"US";904;11
+"North Dakota";"US";8821;64
+"Northern Mariana Islands";"US";3868;21
+"Ohio";"US";5648;124
+"Ohio";"US";23901;392
+"Ohio";"US";10602;174
+"Ohio";"US";17768;338
+"Ohio";"US";11489;106
+"Ohio";"US";9983;141
+"Ohio";"US";13084;247
+"Ohio";"US";9230;140
+"Ohio";"US";76443;924
+"Ohio";"US";4772;100
+"Ohio";"US";7431;112
+"Ohio";"US";29486;440
+"Ohio";"US";42533;428
+"Ohio";"US";8527;121
+"Ohio";"US";21711;399
+"Ohio";"US";6865;136
+"Ohio";"US";9697;175
+"Ohio";"US";254968;2998
+"Ohio";"US";10505;196
+"Ohio";"US";8917;134
+"Ohio";"US";38020;210
+"Ohio";"US";17864;221
+"Ohio";"US";33089;331
+"Ohio";"US";6478;87
+"Ohio";"US";253736;2036
+"Ohio";"US";9130;148
+"Ohio";"US";5834;89
+"Ohio";"US";15087;221
+"Ohio";"US";31233;416
+"Ohio";"US";8962;115
+"Ohio";"US";162442;1699
+"Ohio";"US";14902;227
+"Ohio";"US";6094;125
+"Ohio";"US";2759;61
+"Ohio";"US";5573;92
+"Ohio";"US";8872;143
+"Ohio";"US";5433;103
+"Ohio";"US";4700;161
+"Ohio";"US";13238;182
+"Ohio";"US";7215;114
+"Ohio";"US";12666;257
+"Ohio";"US";11242;195
+"Ohio";"US";46434;586
+"Ohio";"US";13526;186
+"Ohio";"US";36033;401
+"Ohio";"US";8813;141
+"Ohio";"US";62105;783
+"Ohio";"US";87301;1149
+"Ohio";"US";8403;104
+"Ohio";"US";48842;909
+"Ohio";"US";17058;231
+"Ohio";"US";37223;416
+"Ohio";"US";3670;71
+"Ohio";"US";8533;111
+"Ohio";"US";22308;389
+"Ohio";"US";2959;68
+"Ohio";"US";106933;1586
+"Ohio";"US";2722;48
+"Ohio";"US";6822;80
+"Ohio";"US";21702;244
+"Ohio";"US";2768;51
+"Ohio";"US";7513;120
+"Ohio";"US";3969;63
+"Ohio";"US";7010;98
+"Ohio";"US";15211;173
+"Ohio";"US";5986;86
+"Ohio";"US";31070;356
+"Ohio";"US";7854;160
+"Ohio";"US";7633;135
+"Ohio";"US";27688;420
+"Ohio";"US";15792;249
+"Ohio";"US";12527;197
+"Ohio";"US";16089;203
+"Ohio";"US";11257;200
+"Ohio";"US";9553;155
+"Ohio";"US";73436;1383
+"Ohio";"US";105720;1382
+"Ohio";"US";37996;748
+"Ohio";"US";18606;423
+"Ohio";"US";0;8
+"Ohio";"US";12988;83
+"Ohio";"US";5700;120
+"Ohio";"US";2352;45
+"Ohio";"US";48822;468
+"Ohio";"US";10398;168
+"Ohio";"US";21002;354
+"Ohio";"US";7774;135
+"Ohio";"US";27059;289
+"Ohio";"US";4701;89
+"Oklahoma";"US";5459;64
+"Oklahoma";"US";1474;10
+"Oklahoma";"US";3018;41
+"Oklahoma";"US";745;10
+"Oklahoma";"US";4500;86
+"Oklahoma";"US";1813;32
+"Oklahoma";"US";10376;119
+"Oklahoma";"US";6034;138
+"Oklahoma";"US";28798;319
+"Oklahoma";"US";10350;202
+"Oklahoma";"US";10182;129
+"Oklahoma";"US";3000;52
+"Oklahoma";"US";446;0
+"Oklahoma";"US";56962;660
+"Oklahoma";"US";1171;20
+"Oklahoma";"US";24300;335
+"Oklahoma";"US";1115;23
+"Oklahoma";"US";3511;39
+"Oklahoma";"US";13153;282
+"Oklahoma";"US";6119;137
+"Oklahoma";"US";8334;172
+"Oklahoma";"US";860;24
+"Oklahoma";"US";604;6
+"Oklahoma";"US";11551;225
+"Oklahoma";"US";5430;112
+"Oklahoma";"US";9967;204
+"Oklahoma";"US";785;8
+"Oklahoma";"US";894;28
+"Oklahoma";"US";413;9
+"Oklahoma";"US";588;10
+"Oklahoma";"US";1991;32
+"Oklahoma";"US";1904;48
+"Oklahoma";"US";4754;91
+"Oklahoma";"US";1017;20
+"Oklahoma";"US";2212;49
+"Oklahoma";"US";9136;176
+"Oklahoma";"US";2962;56
+"Oklahoma";"US";1340;46
+"Oklahoma";"US";1682;29
+"Oklahoma";"US";9177;96
+"Oklahoma";"US";5744;119
+"Oklahoma";"US";7980;134
+"Oklahoma";"US";2290;30
+"Oklahoma";"US";1722;34
+"Oklahoma";"US";3379;31
+"Oklahoma";"US";7495;133
+"Oklahoma";"US";8768;106
+"Oklahoma";"US";6329;140
+"Oklahoma";"US";3417;106
+"Oklahoma";"US";3053;57
+"Oklahoma";"US";15015;286
+"Oklahoma";"US";2124;33
+"Oklahoma";"US";2108;34
+"Oklahoma";"US";2646;49
+"Oklahoma";"US";146604;1997
+"Oklahoma";"US";7021;156
+"Oklahoma";"US";8351;141
+"Oklahoma";"US";6951;106
+"Oklahoma";"US";0;0
+"Oklahoma";"US";3133;70
+"Oklahoma";"US";13546;127
+"Oklahoma";"US";7734;175
+"Oklahoma";"US";8105;109
+"Oklahoma";"US";14797;227
+"Oklahoma";"US";1961;42
+"Oklahoma";"US";723;13
+"Oklahoma";"US";18858;319
+"Oklahoma";"US";4514;107
+"Oklahoma";"US";7608;94
+"Oklahoma";"US";8662;159
+"Oklahoma";"US";4830;44
+"Oklahoma";"US";1177;29
+"Oklahoma";"US";126355;1829
+"Oklahoma";"US";46457;1037
+"Oklahoma";"US";16111;226
+"Oklahoma";"US";9503;215
+"Oklahoma";"US";1956;35
+"Oklahoma";"US";1871;30
+"Oklahoma";"US";4364;57
+"Oregon";"US";2539;38
+"Oregon";"US";9715;46
+"Oregon";"US";44922;456
+"Oregon";"US";3380;37
+"Oregon";"US";5391;66
+"Oregon";"US";7772;128
+"Oregon";"US";4192;62
+"Oregon";"US";2370;40
+"Oregon";"US";33440;225
+"Oregon";"US";15407;320
+"Oregon";"US";222;4
+"Oregon";"US";1285;17
+"Oregon";"US";1283;34
+"Oregon";"US";2621;38
+"Oregon";"US";30929;408
+"Oregon";"US";5253;70
+"Oregon";"US";12201;284
+"Oregon";"US";10267;178
+"Oregon";"US";1115;23
+"Oregon";"US";38991;396
+"Oregon";"US";4709;60
+"Oregon";"US";18298;217
+"Oregon";"US";6529;95
+"Oregon";"US";49387;563
+"Oregon";"US";2352;26
+"Oregon";"US";85131;935
+"Oregon";"US";10651;112
+"Oregon";"US";228;3
+"Oregon";"US";2711;54
+"Oregon";"US";17891;190
+"Oregon";"US";0;0
+"Oregon";"US";3870;65
+"Oregon";"US";879;13
+"Oregon";"US";3694;50
+"Oregon";"US";61187;460
+"Oregon";"US";165;2
+"Oregon";"US";12414;168
+"Pennsylvania";"US";21276;300
+"Pennsylvania";"US";224385;2842
+"Pennsylvania";"US";13415;290
+"Pennsylvania";"US";33870;642
+"Pennsylvania";"US";9481;236
+"Pennsylvania";"US";91157;1407
+"Pennsylvania";"US";25027;535
+"Pennsylvania";"US";12436;176
+"Pennsylvania";"US";110048;1622
+"Pennsylvania";"US";38496;643
+"Pennsylvania";"US";28936;644
+"Pennsylvania";"US";693;15
+"Pennsylvania";"US";14024;245
+"Pennsylvania";"US";30105;305
+"Pennsylvania";"US";80208;1020
+"Pennsylvania";"US";7177;181
+"Pennsylvania";"US";16031;286
+"Pennsylvania";"US";7648;115
+"Pennsylvania";"US";12458;203
+"Pennsylvania";"US";17160;270
+"Pennsylvania";"US";42842;755
+"Pennsylvania";"US";51825;809
+"Pennsylvania";"US";98803;1631
+"Pennsylvania";"US";6002;82
+"Pennsylvania";"US";49897;652
+"Pennsylvania";"US";25629;563
+"Pennsylvania";"US";1967;33
+"Pennsylvania";"US";34399;589
+"Pennsylvania";"US";3487;55
+"Pennsylvania";"US";7026;85
+"Pennsylvania";"US";9426;212
+"Pennsylvania";"US";14255;316
+"Pennsylvania";"US";7520;195
+"Pennsylvania";"US";4107;156
+"Pennsylvania";"US";36035;627
+"Pennsylvania";"US";107154;1639
+"Pennsylvania";"US";16607;357
+"Pennsylvania";"US";32197;426
+"Pennsylvania";"US";80779;1108
+"Pennsylvania";"US";63796;1136
+"Pennsylvania";"US";24211;469
+"Pennsylvania";"US";6913;121
+"Pennsylvania";"US";20660;446
+"Pennsylvania";"US";10132;249
+"Pennsylvania";"US";32835;445
+"Pennsylvania";"US";132830;2066
+"Pennsylvania";"US";3748;83
+"Pennsylvania";"US";71600;935
+"Pennsylvania";"US";19309;485
+"Pennsylvania";"US";7562;163
+"Pennsylvania";"US";277656;4424
+"Pennsylvania";"US";8617;77
+"Pennsylvania";"US";2741;80
+"Pennsylvania";"US";29761;591
+"Pennsylvania";"US";6930;133
+"Pennsylvania";"US";15676;356
+"Pennsylvania";"US";899;32
+"Pennsylvania";"US";6699;96
+"Pennsylvania";"US";6860;176
+"Pennsylvania";"US";0;0
+"Pennsylvania";"US";9844;135
+"Pennsylvania";"US";9785;211
+"Pennsylvania";"US";6228;188
+"Pennsylvania";"US";42894;548
+"Pennsylvania";"US";8745;147
+"Pennsylvania";"US";67953;1178
+"Pennsylvania";"US";4345;92
+"Pennsylvania";"US";102239;1282
+"Puerto Rico";"US";1629;0
+"Puerto Rico";"US";4970;0
+"Puerto Rico";"US";5593;0
+"Puerto Rico";"US";3135;0
+"Puerto Rico";"US";2699;0
+"Puerto Rico";"US";2671;0
+"Puerto Rico";"US";9791;0
+"Puerto Rico";"US";1269;0
+"Puerto Rico";"US";2454;0
+"Puerto Rico";"US";3570;0
+"Puerto Rico";"US";27174;0
+"Puerto Rico";"US";3945;0
+"Puerto Rico";"US";17545;0
+"Puerto Rico";"US";3600;0
+"Puerto Rico";"US";5193;0
+"Puerto Rico";"US";22648;0
+"Puerto Rico";"US";3297;0
+"Puerto Rico";"US";4534;0
+"Puerto Rico";"US";1020;0
+"Puerto Rico";"US";1926;0
+"Puerto Rico";"US";4452;0
+"Puerto Rico";"US";3357;0
+"Puerto Rico";"US";2177;0
+"Puerto Rico";"US";4705;0
+"Puerto Rico";"US";147;0
+"Puerto Rico";"US";5153;0
+"Puerto Rico";"US";3392;0
+"Puerto Rico";"US";1686;0
+"Puerto Rico";"US";1054;0
+"Puerto Rico";"US";3496;0
+"Puerto Rico";"US";1355;0
+"Puerto Rico";"US";12040;0
+"Puerto Rico";"US";5690;0
+"Puerto Rico";"US";3900;0
+"Puerto Rico";"US";1411;0
+"Puerto Rico";"US";6061;0
+"Puerto Rico";"US";5074;0
+"Puerto Rico";"US";1415;0
+"Puerto Rico";"US";4343;0
+"Puerto Rico";"US";5095;0
+"Puerto Rico";"US";1780;0
+"Puerto Rico";"US";2612;0
+"Puerto Rico";"US";784;0
+"Puerto Rico";"US";4059;0
+"Puerto Rico";"US";2571;0
+"Puerto Rico";"US";1925;0
+"Puerto Rico";"US";4470;0
+"Puerto Rico";"US";378;0
+"Puerto Rico";"US";986;0
+"Puerto Rico";"US";7604;0
+"Puerto Rico";"US";4526;0
+"Puerto Rico";"US";3481;0
+"Puerto Rico";"US";2533;0
+"Puerto Rico";"US";3891;0
+"Puerto Rico";"US";2102;0
+"Puerto Rico";"US";434;0
+"Puerto Rico";"US";1483;0
+"Puerto Rico";"US";1638;0
+"Puerto Rico";"US";13192;0
+"Puerto Rico";"US";2729;0
+"Puerto Rico";"US";1693;0
+"Puerto Rico";"US";6080;0
+"Puerto Rico";"US";1667;0
+"Puerto Rico";"US";2344;0
+"Puerto Rico";"US";2695;0
+"Puerto Rico";"US";49608;0
+"Puerto Rico";"US";4233;0
+"Puerto Rico";"US";4572;0
+"Puerto Rico";"US";1842;0
+"Puerto Rico";"US";9647;0
+"Puerto Rico";"US";10081;0
+"Puerto Rico";"US";7813;0
+"Puerto Rico";"US";12879;3493
+"Puerto Rico";"US";2550;0
+"Puerto Rico";"US";4667;0
+"Puerto Rico";"US";8186;0
+"Puerto Rico";"US";487;0
+"Puerto Rico";"US";2380;0
+"Puerto Rico";"US";3233;0
+"Puerto Rico";"US";3040;0
+"Recovered";"US";0;0
+"Rhode Island";"US";10009;159
+"Rhode Island";"US";36275;438
+"Rhode Island";"US";14544;65
+"Rhode Island";"US";172007;2266
+"Rhode Island";"US";46133;49
+"Rhode Island";"US";23141;198
+"South Carolina";"US";5004;57
+"South Carolina";"US";32748;373
+"South Carolina";"US";1668;22
+"South Carolina";"US";46573;841
+"South Carolina";"US";2696;65
+"South Carolina";"US";4651;88
+"South Carolina";"US";33967;328
+"South Carolina";"US";40079;372
+"South Carolina";"US";2251;54
+"South Carolina";"US";88396;772
+"South Carolina";"US";12010;272
+"South Carolina";"US";8007;126
+"South Carolina";"US";9236;164
+"South Carolina";"US";6349;138
+"South Carolina";"US";7002;196
+"South Carolina";"US";14911;250
+"South Carolina";"US";7782;125
+"South Carolina";"US";44121;398
+"South Carolina";"US";5375;60
+"South Carolina";"US";4571;96
+"South Carolina";"US";32992;559
+"South Carolina";"US";12298;191
+"South Carolina";"US";135501;1601
+"South Carolina";"US";16456;248
+"South Carolina";"US";3912;75
+"South Carolina";"US";76420;948
+"South Carolina";"US";4746;82
+"South Carolina";"US";16061;219
+"South Carolina";"US";19829;251
+"South Carolina";"US";14727;249
+"South Carolina";"US";3360;83
+"South Carolina";"US";72181;747
+"South Carolina";"US";6798;147
+"South Carolina";"US";6181;86
+"South Carolina";"US";1757;33
+"South Carolina";"US";10099;154
+"South Carolina";"US";19100;273
+"South Carolina";"US";18716;341
+"South Carolina";"US";34930;523
+"South Carolina";"US";95494;812
+"South Carolina";"US";3152;62
+"South Carolina";"US";76206;1312
+"South Carolina";"US";21621;323
+"South Carolina";"US";0;0
+"South Carolina";"US";5948;118
+"South Carolina";"US";6793;132
+"South Carolina";"US";60450;548
+"South Dakota";"US";668;17
+"South Dakota";"US";4069;50
+"South Dakota";"US";617;9
+"South Dakota";"US";2095;33
+"South Dakota";"US";6856;41
+"South Dakota";"US";8530;110
+"South Dakota";"US";1237;18
+"South Dakota";"US";567;17
+"South Dakota";"US";2274;41
+"South Dakota";"US";230;6
+"South Dakota";"US";2415;32
+"South Dakota";"US";667;6
+"South Dakota";"US";2853;17
+"South Dakota";"US";7041;91
+"South Dakota";"US";832;15
+"South Dakota";"US";1701;21
+"South Dakota";"US";5048;74
+"South Dakota";"US";1065;30
+"South Dakota";"US";886;12
+"South Dakota";"US";2299;36
+"South Dakota";"US";633;15
+"South Dakota";"US";772;14
+"South Dakota";"US";1420;33
+"South Dakota";"US";490;16
+"South Dakota";"US";1797;47
+"South Dakota";"US";955;33
+"South Dakota";"US";400;11
+"South Dakota";"US";1303;40
+"South Dakota";"US";484;8
+"South Dakota";"US";585;5
+"South Dakota";"US";178;3
+"South Dakota";"US";3827;58
+"South Dakota";"US";1524;30
+"South Dakota";"US";254;5
+"South Dakota";"US";499;20
+"South Dakota";"US";357;19
+"South Dakota";"US";154;1
+"South Dakota";"US";1119;20
+"South Dakota";"US";2046;26
+"South Dakota";"US";5494;77
+"South Dakota";"US";13926;86
+"South Dakota";"US";1070;12
+"South Dakota";"US";624;8
+"South Dakota";"US";1211;30
+"South Dakota";"US";381;9
+"South Dakota";"US";5760;56
+"South Dakota";"US";416;5
+"South Dakota";"US";422;12
+"South Dakota";"US";50884;448
+"South Dakota";"US";1142;25
+"South Dakota";"US";3111;55
+"South Dakota";"US";27003;296
+"South Dakota";"US";564;16
+"South Dakota";"US";576;5
+"South Dakota";"US";2012;45
+"South Dakota";"US";499;5
+"South Dakota";"US";1239;32
+"South Dakota";"US";571;5
+"South Dakota";"US";223;3
+"South Dakota";"US";2280;41
+"South Dakota";"US";1170;21
+"South Dakota";"US";1737;62
+"South Dakota";"US";0;0
+"South Dakota";"US";3474;47
+"South Dakota";"US";1112;20
+"South Dakota";"US";4988;47
+"South Dakota";"US";501;11
+"Tennessee";"US";15396;270
+"Tennessee";"US";10758;204
+"Tennessee";"US";3308;81
+"Tennessee";"US";3746;40
+"Tennessee";"US";27391;328
+"Tennessee";"US";25292;323
+"Tennessee";"US";8499;129
+"Tennessee";"US";3121;50
+"Tennessee";"US";6532;130
+"Tennessee";"US";12228;273
+"Tennessee";"US";8399;93
+"Tennessee";"US";4146;80
+"Tennessee";"US";6413;145
+"Tennessee";"US";1726;43
+"Tennessee";"US";8747;172
+"Tennessee";"US";12138;214
+"Tennessee";"US";3759;75
+"Tennessee";"US";12415;278
+"Tennessee";"US";153055;1396
+"Tennessee";"US";4726;87
+"Tennessee";"US";2715;49
+"Tennessee";"US";11992;208
+"Tennessee";"US";9307;167
+"Tennessee";"US";9303;135
+"Tennessee";"US";4201;96
+"Tennessee";"US";9205;146
+"Tennessee";"US";12313;215
+"Tennessee";"US";6872;153
+"Tennessee";"US";5089;92
+"Tennessee";"US";16008;296
+"Tennessee";"US";3142;64
+"Tennessee";"US";14888;292
+"Tennessee";"US";76393;913
+"Tennessee";"US";1491;28
+"Tennessee";"US";5921;96
+"Tennessee";"US";6245;112
+"Tennessee";"US";12069;245
+"Tennessee";"US";4626;82
+"Tennessee";"US";6378;119
+"Tennessee";"US";6131;120
+"Tennessee";"US";5288;92
+"Tennessee";"US";2079;53
+"Tennessee";"US";3673;60
+"Tennessee";"US";2331;51
+"Tennessee";"US";11510;217
+"Tennessee";"US";4306;68
+"Tennessee";"US";92864;1083
+"Tennessee";"US";2177;34
+"Tennessee";"US";5887;78
+"Tennessee";"US";10645;160
+"Tennessee";"US";2710;48
+"Tennessee";"US";7416;135
+"Tennessee";"US";10488;148
+"Tennessee";"US";6273;120
+"Tennessee";"US";21434;365
+"Tennessee";"US";6487;110
+"Tennessee";"US";7742;105
+"Tennessee";"US";22174;273
+"Tennessee";"US";11726;198
+"Tennessee";"US";5358;87
+"Tennessee";"US";2492;47
+"Tennessee";"US";10755;196
+"Tennessee";"US";38958;477
+"Tennessee";"US";1625;32
+"Tennessee";"US";4308;60
+"Tennessee";"US";7917;148
+"Tennessee";"US";39422;211
+"Tennessee";"US";5465;110
+"Tennessee";"US";1774;42
+"Tennessee";"US";1222;28
+"Tennessee";"US";3523;50
+"Tennessee";"US";18810;267
+"Tennessee";"US";7648;131
+"Tennessee";"US";11378;185
+"Tennessee";"US";16648;236
+"Tennessee";"US";74216;746
+"Tennessee";"US";6289;90
+"Tennessee";"US";3359;60
+"Tennessee";"US";23608;336
+"Tennessee";"US";192753;2731
+"Tennessee";"US";4686;66
+"Tennessee";"US";2502;44
+"Tennessee";"US";32969;559
+"Tennessee";"US";41555;590
+"Tennessee";"US";14231;179
+"Tennessee";"US";3463;36
+"Tennessee";"US";26222;182
+"Tennessee";"US";3593;81
+"Tennessee";"US";3857;64
+"Tennessee";"US";1394;44
+"Tennessee";"US";9440;153
+"Tennessee";"US";26921;404
+"Tennessee";"US";4430;48
+"Tennessee";"US";7147;107
+"Tennessee";"US";6231;115
+"Tennessee";"US";48593;327
+"Tennessee";"US";32459;415
+"Texas";"US";8985;213
+"Texas";"US";3467;67
+"Texas";"US";14669;432
+"Texas";"US";3081;69
+"Texas";"US";1726;24
+"Texas";"US";439;8
+"Texas";"US";10336;214
+"Texas";"US";4590;58
+"Texas";"US";1262;31
+"Texas";"US";2952;65
+"Texas";"US";18295;194
+"Texas";"US";668;25
+"Texas";"US";6895;138
+"Texas";"US";51118;761
+"Texas";"US";419505;5408
+"Texas";"US";1894;28
+"Texas";"US";84;2
+"Texas";"US";3194;59
+"Texas";"US";15977;361
+"Texas";"US";81248;881
+"Texas";"US";49714;368
+"Texas";"US";966;24
+"Texas";"US";371;8
+"Texas";"US";1276;48
+"Texas";"US";8331;188
+"Texas";"US";4268;61
+"Texas";"US";9101;139
+"Texas";"US";11224;159
+"Texas";"US";4707;40
+"Texas";"US";2305;62
+"Texas";"US";81438;1851
+"Texas";"US";2439;69
+"Texas";"US";1299;30
+"Texas";"US";5359;165
+"Texas";"US";1921;45
+"Texas";"US";9007;63
+"Texas";"US";7463;230
+"Texas";"US";2156;24
+"Texas";"US";1805;26
+"Texas";"US";698;21
+"Texas";"US";806;18
+"Texas";"US";1430;60
+"Texas";"US";167010;1245
+"Texas";"US";585;13
+"Texas";"US";3128;56
+"Texas";"US";25978;489
+"Texas";"US";2677;69
+"Texas";"US";925;10
+"Texas";"US";6246;114
+"Texas";"US";14345;173
+"Texas";"US";258;9
+"Texas";"US";1099;19
+"Texas";"US";834;17
+"Texas";"US";1614;42
+"Texas";"US";444;13
+"Texas";"US";1860;33
+"Texas";"US";500937;5853
+"Texas";"US";2177;83
+"Texas";"US";5575;86
+"Texas";"US";3923;101
+"Texas";"US";1507;22
+"Texas";"US";139269;1117
+"Texas";"US";353;15
+"Texas";"US";4577;48
+"Texas";"US";871;20
+"Texas";"US";2335;62
+"Texas";"US";2488;91
+"Texas";"US";32012;585
+"Texas";"US";382;9
+"Texas";"US";182096;3245
+"Texas";"US";40869;503
+"Texas";"US";7225;110
+"Texas";"US";3233;53
+"Texas";"US";5787;157
+"Texas";"US";4156;95
+"Texas";"US";517;20
+"Texas";"US";1701;42
+"Texas";"US";178;10
+"Texas";"US";149383;1075
+"Texas";"US";1750;37
+"Texas";"US";3399;76
+"Texas";"US";4505;80
+"Texas";"US";1561;72
+"Texas";"US";82931;741
+"Texas";"US";1021;25
+"Texas";"US";4433;86
+"Texas";"US";180;3
+"Texas";"US";897;28
+"Texas";"US";3988;91
+"Texas";"US";5406;105
+"Texas";"US";21866;548
+"Texas";"US";21506;592
+"Texas";"US";7113;111
+"Texas";"US";29919;349
+"Texas";"US";5598;214
+"Texas";"US";858;18
+"Texas";"US";1682;29
+"Texas";"US";1516;27
+"Texas";"US";490;14
+"Texas";"US";11426;221
+"Texas";"US";869852;9892
+"Texas";"US";11025;195
+"Texas";"US";1188;3
+"Texas";"US";730;37
+"Texas";"US";45655;426
+"Texas";"US";999;3
+"Texas";"US";11801;360
+"Texas";"US";148755;3552
+"Texas";"US";7480;178
+"Texas";"US";6578;143
+"Texas";"US";11223;222
+"Texas";"US";6816;154
+"Texas";"US";3396;91
+"Texas";"US";6276;153
+"Texas";"US";839;15
+"Texas";"US";13162;320
+"Texas";"US";5746;118
+"Texas";"US";304;2
+"Texas";"US";1190;23
+"Texas";"US";2992;53
+"Texas";"US";5207;167
+"Texas";"US";209;6
+"Texas";"US";37161;745
+"Texas";"US";1518;20
+"Texas";"US";8759;185
+"Texas";"US";35532;619
+"Texas";"US";3932;82
+"Texas";"US";4585;58
+"Texas";"US";29262;458
+"Texas";"US";6559;104
+"Texas";"US";66;2
+"Texas";"US";170;3
+"Texas";"US";8091;145
+"Texas";"US";506;12
+"Texas";"US";39;0
+"Texas";"US";622;10
+"Texas";"US";5419;133
+"Texas";"US";412;22
+"Texas";"US";1880;41
+"Texas";"US";7958;227
+"Texas";"US";3943;102
+"Texas";"US";4470;72
+"Texas";"US";3718;100
+"Texas";"US";3461;55
+"Texas";"US";3210;75
+"Texas";"US";15256;368
+"Texas";"US";4383;116
+"Texas";"US";570;13
+"Texas";"US";1841;39
+"Texas";"US";3284;87
+"Texas";"US";66;0
+"Texas";"US";81551;1124
+"Texas";"US";1103;29
+"Texas";"US";3327;48
+"Texas";"US";1396;55
+"Texas";"US";996;24
+"Texas";"US";624;9
+"Texas";"US";7224;166
+"Texas";"US";16029;419
+"Texas";"US";1063;41
+"Texas";"US";49847;782
+"Texas";"US";139;8
+"Texas";"US";8000;175
+"Texas";"US";398;12
+"Texas";"US";32668;427
+"Texas";"US";4363;92
+"Texas";"US";1215;29
+"Texas";"US";1673;44
+"Texas";"US";3735;104
+"Texas";"US";116003;1161
+"Texas";"US";4593;97
+"Texas";"US";2155;58
+"Texas";"US";242;9
+"Texas";"US";9966;241
+"Texas";"US";10546;196
+"Texas";"US";1058;56
+"Texas";"US";2684;85
+"Texas";"US";81927;1320
+"Texas";"US";1905;39
+"Texas";"US";486;6
+"Texas";"US";14715;309
+"Texas";"US";5736;133
+"Texas";"US";3703;113
+"Texas";"US";28901;367
+"Texas";"US";1987;45
+"Texas";"US";2247;60
+"Texas";"US";6657;223
+"Texas";"US";29762;621
+"Texas";"US";953;32
+"Texas";"US";1526;49
+"Texas";"US";24608;423
+"Texas";"US";703;11
+"Texas";"US";655;21
+"Texas";"US";1829;58
+"Texas";"US";4130;64
+"Texas";"US";1439;31
+"Texas";"US";147;1
+"Texas";"US";4000;68
+"Texas";"US";22311;233
+"Texas";"US";1961;57
+"Texas";"US";9375;191
+"Texas";"US";1093;79
+"Texas";"US";875;38
+"Texas";"US";4369;85
+"Texas";"US";8433;303
+"Texas";"US";1068;29
+"Texas";"US";406;9
+"Texas";"US";4325;95
+"Texas";"US";590;11
+"Texas";"US";3646;116
+"Texas";"US";440;16
+"Texas";"US";41514;841
+"Texas";"US";1752;29
+"Texas";"US";14503;338
+"Texas";"US";1585;39
+"Texas";"US";224;5
+"Texas";"US";271;6
+"Texas";"US";668;11
+"Texas";"US";1775;27
+"Texas";"US";459730;5114
+"Texas";"US";26471;632
+"Texas";"US";111;3
+"Texas";"US";1822;74
+"Texas";"US";174;7
+"Texas";"US";7253;110
+"Texas";"US";34106;398
+"Texas";"US";178717;1521
+"Texas";"US";2157;65
+"Texas";"US";2985;74
+"Texas";"US";0;0
+"Texas";"US";6727;161
+"Texas";"US";696;15
+"Texas";"US";8065;120
+"Texas";"US";11925;262
+"Texas";"US";9002;241
+"Texas";"US";15487;362
+"Texas";"US";15534;191
+"Texas";"US";8104;90
+"Texas";"US";2313;37
+"Texas";"US";7654;135
+"Texas";"US";70018;931
+"Texas";"US";7245;194
+"Texas";"US";1044;15
+"Texas";"US";25406;557
+"Texas";"US";3017;77
+"Texas";"US";5600;116
+"Texas";"US";103465;764
+"Texas";"US";8969;145
+"Texas";"US";1508;33
+"Texas";"US";13955;223
+"Texas";"US";7464;246
+"Texas";"US";885;37
+"Texas";"US";3335;75
+"Texas";"US";2718;46
+"Texas";"US";3225;56
+"Utah";"US";40329;197
+"Utah";"US";16609;132
+"Utah";"US";78771;332
+"Utah";"US";278477;1380
+"Utah";"US";3168;47
+"Utah";"US";8090;64
+"Utah";"US";52214;516
+"Utah";"US";11375;19
+"Utah";"US";16644;88
+"Utah";"US";10018;82
+"Utah";"US";2462;4
+"Utah";"US";164808;678
+"Utah";"US";8692;33
+"Utah";"US";58677;379
+"Vermont";"US";3131;10
+"Vermont";"US";6942;49
+"Vermont";"US";3700;22
+"Vermont";"US";20711;140
+"Vermont";"US";945;3
+"Vermont";"US";6691;57
+"Vermont";"US";684;3
+"Vermont";"US";2694;12
+"Vermont";"US";2557;10
+"Vermont";"US";4225;31
+"Vermont";"US";9086;44
+"Vermont";"US";9537;0
+"Vermont";"US";6673;39
+"Vermont";"US";4566;31
+"Vermont";"US";5962;46
+"Virgin Islands";"US";13521;91
+"Virginia";"US";5625;85
+"Virginia";"US";11658;120
+"Virginia";"US";25027;164
+"Virginia";"US";2770;90
+"Virginia";"US";2047;44
+"Virginia";"US";5528;64
+"Virginia";"US";2975;38
+"Virginia";"US";33423;284
+"Virginia";"US";14498;152
+"Virginia";"US";670;15
+"Virginia";"US";12864;179
+"Virginia";"US";1299;18
+"Virginia";"US";5589;67
+"Virginia";"US";3060;59
+"Virginia";"US";2254;37
+"Virginia";"US";3450;90
+"Virginia";"US";3099;41
+"Virginia";"US";1649;34
+"Virginia";"US";9200;163
+"Virginia";"US";5678;59
+"Virginia";"US";5180;113
+"Virginia";"US";957;22
+"Virginia";"US";1828;32
+"Virginia";"US";7563;65
+"Virginia";"US";41172;383
+"Virginia";"US";58244;611
+"Virginia";"US";2160;33
+"Virginia";"US";3772;72
+"Virginia";"US";854;20
+"Virginia";"US";861;11
+"Virginia";"US";9598;97
+"Virginia";"US";982;19
+"Virginia";"US";8479;213
+"Virginia";"US";2450;40
+"Virginia";"US";4281;63
+"Virginia";"US";961;46
+"Virginia";"US";1860;22
+"Virginia";"US";147621;1217
+"Virginia";"US";1747;36
+"Virginia";"US";1494;14
+"Virginia";"US";10826;96
+"Virginia";"US";2009;33
+"Virginia";"US";3710;33
+"Virginia";"US";8442;134
+"Virginia";"US";2093;43
+"Virginia";"US";17330;188
+"Virginia";"US";4487;28
+"Virginia";"US";1999;70
+"Virginia";"US";2875;38
+"Virginia";"US";5639;83
+"Virginia";"US";3058;36
+"Virginia";"US";2767;65
+"Virginia";"US";3135;47
+"Virginia";"US";2692;30
+"Virginia";"US";5364;127
+"Virginia";"US";22659;258
+"Virginia";"US";17397;209
+"Virginia";"US";10596;118
+"Virginia";"US";52040;754
+"Virginia";"US";8712;212
+"Virginia";"US";276;4
+"Virginia";"US";5034;99
+"Virginia";"US";6010;92
+"Virginia";"US";11423;100
+"Virginia";"US";4096;27
+"Virginia";"US";2987;27
+"Virginia";"US";937;9
+"Virginia";"US";1468;24
+"Virginia";"US";4399;71
+"Virginia";"US";2004;38
+"Virginia";"US";55773;315
+"Virginia";"US";4945;53
+"Virginia";"US";1531;24
+"Virginia";"US";15434;224
+"Virginia";"US";1604;25
+"Virginia";"US";7709;57
+"Virginia";"US";1879;16
+"Virginia";"US";2669;100
+"Virginia";"US";1170;24
+"Virginia";"US";4292;99
+"Virginia";"US";1393;34
+"Virginia";"US";14619;121
+"Virginia";"US";2120;25
+"Virginia";"US";3537;28
+"Virginia";"US";30020;320
+"Virginia";"US";34647;371
+"Virginia";"US";1612;51
+"Virginia";"US";1745;39
+"Virginia";"US";878;20
+"Virginia";"US";3271;72
+"Virginia";"US";5555;69
+"Virginia";"US";4676;93
+"Virginia";"US";2816;72
+"Virginia";"US";6964;111
+"Virginia";"US";10412;147
+"Virginia";"US";1885;24
+"Virginia";"US";17830;256
+"Virginia";"US";3985;34
+"Virginia";"US";3678;54
+"Virginia";"US";6508;53
+"Virginia";"US";82684;620
+"Virginia";"US";5406;108
+"Virginia";"US";3754;39
+"Virginia";"US";804;7
+"Virginia";"US";2185;17
+"Virginia";"US";36150;394
+"Virginia";"US";16783;199
+"Virginia";"US";16892;276
+"Virginia";"US";2654;72
+"Virginia";"US";12062;189
+"Virginia";"US";5014;80
+"Virginia";"US";5318;85
+"Virginia";"US";4135;92
+"Virginia";"US";9088;189
+"Virginia";"US";6115;140
+"Virginia";"US";2821;75
+"Virginia";"US";22222;195
+"Virginia";"US";24960;119
+"Virginia";"US";4502;89
+"Virginia";"US";15419;254
+"Virginia";"US";865;13
+"Virginia";"US";2078;31
+"Virginia";"US";7406;123
+"Virginia";"US";0;0
+"Virginia";"US";73803;618
+"Virginia";"US";7407;110
+"Virginia";"US";10131;186
+"Virginia";"US";4474;55
+"Virginia";"US";2676;39
+"Virginia";"US";1430;13
+"Virginia";"US";5372;59
+"Virginia";"US";7212;153
+"Virginia";"US";5630;121
+"Virginia";"US";7917;87
+"Washington";"US";3782;35
+"Washington";"US";3424;54
+"Washington";"US";37604;409
+"Washington";"US";14670;139
+"Washington";"US";7891;96
+"Washington";"US";60105;635
+"Washington";"US";458;10
+"Washington";"US";16957;294
+"Washington";"US";7806;55
+"Washington";"US";1009;19
+"Washington";"US";23676;189
+"Washington";"US";296;7
+"Washington";"US";19491;185
+"Washington";"US";11909;164
+"Washington";"US";6572;57
+"Washington";"US";1949;22
+"Washington";"US";267403;2187
+"Washington";"US";25853;265
+"Washington";"US";6469;56
+"Washington";"US";2534;36
+"Washington";"US";13110;201
+"Washington";"US";1700;26
+"Washington";"US";8420;104
+"Washington";"US";6099;106
+"Washington";"US";2334;43
+"Washington";"US";1855;28
+"Washington";"US";138752;1061
+"Washington";"US";686;0
+"Washington";"US";16867;159
+"Washington";"US";1051;10
+"Washington";"US";103791;873
+"Washington";"US";90364;1171
+"Washington";"US";6065;117
+"Washington";"US";33312;286
+"Washington";"US";1999;4
+"Washington";"US";332;5
+"Washington";"US";10610;120
+"Washington";"US";25852;217
+"Washington";"US";6579;83
+"Washington";"US";51820;668
+"West Virginia";"US";3591;56
+"West Virginia";"US";30595;222
+"West Virginia";"US";4848;62
+"West Virginia";"US";3081;32
+"West Virginia";"US";4184;87
+"West Virginia";"US";20980;309
+"West Virginia";"US";1374;9
+"West Virginia";"US";1837;29
+"West Virginia";"US";1659;16
+"West Virginia";"US";8924;153
+"West Virginia";"US";1697;17
+"West Virginia";"US";3045;49
+"West Virginia";"US";6811;123
+"West Virginia";"US";4703;60
+"West Virginia";"US";5731;127
+"West Virginia";"US";3478;41
+"West Virginia";"US";15166;208
+"West Virginia";"US";5242;112
+"West Virginia";"US";12041;105
+"West Virginia";"US";34754;586
+"West Virginia";"US";4045;70
+"West Virginia";"US";4011;58
+"West Virginia";"US";7037;155
+"West Virginia";"US";11450;143
+"West Virginia";"US";7006;137
+"West Virginia";"US";4804;74
+"West Virginia";"US";3860;56
+"West Virginia";"US";12362;213
+"West Virginia";"US";6387;139
+"West Virginia";"US";5851;102
+"West Virginia";"US";19233;163
+"West Virginia";"US";2960;33
+"West Virginia";"US";3543;57
+"West Virginia";"US";5322;78
+"West Virginia";"US";9109;134
+"West Virginia";"US";1516;16
+"West Virginia";"US";1755;32
+"West Virginia";"US";1533;23
+"West Virginia";"US";7274;112
+"West Virginia";"US";12663;148
+"West Virginia";"US";16518;243
+"West Virginia";"US";6795;65
+"West Virginia";"US";1887;26
+"West Virginia";"US";2373;29
+"West Virginia";"US";1963;42
+"West Virginia";"US";3340;56
+"West Virginia";"US";1490;32
+"West Virginia";"US";1665;27
+"West Virginia";"US";0;0
+"West Virginia";"US";5281;77
+"West Virginia";"US";7400;96
+"West Virginia";"US";1667;27
+"West Virginia";"US";3371;68
+"West Virginia";"US";1121;19
+"West Virginia";"US";17854;284
+"West Virginia";"US";4771;79
+"Wisconsin";"US";3817;44
+"Wisconsin";"US";2648;28
+"Wisconsin";"US";11582;122
+"Wisconsin";"US";2547;35
+"Wisconsin";"US";68697;389
+"Wisconsin";"US";2847;10
+"Wisconsin";"US";3325;36
+"Wisconsin";"US";12503;99
+"Wisconsin";"US";15602;152
+"Wisconsin";"US";6609;110
+"Wisconsin";"US";12184;106
+"Wisconsin";"US";3425;26
+"Wisconsin";"US";81956;430
+"Wisconsin";"US";22579;281
+"Wisconsin";"US";5859;53
+"Wisconsin";"US";9149;71
+"Wisconsin";"US";10923;63
+"Wisconsin";"US";24508;169
+"Wisconsin";"US";867;15
+"Wisconsin";"US";26616;203
+"Wisconsin";"US";2170;47
+"Wisconsin";"US";10644;132
+"Wisconsin";"US";7261;46
+"Wisconsin";"US";4248;49
+"Wisconsin";"US";4089;24
+"Wisconsin";"US";1169;44
+"Wisconsin";"US";4861;40
+"Wisconsin";"US";17536;196
+"Wisconsin";"US";6450;55
+"Wisconsin";"US";36188;509
+"Wisconsin";"US";5186;51
+"Wisconsin";"US";27413;143
+"Wisconsin";"US";3063;18
+"Wisconsin";"US";4338;66
+"Wisconsin";"US";5976;125
+"Wisconsin";"US";17565;152
+"Wisconsin";"US";32992;423
+"Wisconsin";"US";9951;99
+"Wisconsin";"US";3251;42
+"Wisconsin";"US";1393;12
+"Wisconsin";"US";227463;1863
+"Wisconsin";"US";9667;73
+"Wisconsin";"US";10018;89
+"Wisconsin";"US";7160;116
+"Wisconsin";"US";46593;313
+"Wisconsin";"US";18450;132
+"Wisconsin";"US";1658;16
+"Wisconsin";"US";9635;65
+"Wisconsin";"US";10334;111
+"Wisconsin";"US";15342;134
+"Wisconsin";"US";2807;24
+"Wisconsin";"US";49602;557
+"Wisconsin";"US";3073;38
+"Wisconsin";"US";34220;296
+"Wisconsin";"US";2977;41
+"Wisconsin";"US";13068;87
+"Wisconsin";"US";3943;51
+"Wisconsin";"US";9930;117
+"Wisconsin";"US";27048;211
+"Wisconsin";"US";20553;124
+"Wisconsin";"US";4232;62
+"Wisconsin";"US";6941;56
+"Wisconsin";"US";0;0
+"Wisconsin";"US";4659;76
+"Wisconsin";"US";4326;78
+"Wisconsin";"US";22695;234
+"Wisconsin";"US";3344;37
+"Wisconsin";"US";32205;263
+"Wisconsin";"US";85141;854
+"Wisconsin";"US";11787;225
+"Wisconsin";"US";5228;75
+"Wisconsin";"US";42450;324
+"Wisconsin";"US";17076;192
+"Wyoming";"US";8171;44
+"Wyoming";"US";2235;60
+"Wyoming";"US";10093;130
+"Wyoming";"US";3539;50
+"Wyoming";"US";2536;49
+"Wyoming";"US";1084;22
+"Wyoming";"US";10430;167
+"Wyoming";"US";2838;53
+"Wyoming";"US";930;12
+"Wyoming";"US";1524;18
+"Wyoming";"US";20717;239
+"Wyoming";"US";3339;27
+"Wyoming";"US";18147;246
+"Wyoming";"US";519;8
+"Wyoming";"US";5930;122
+"Wyoming";"US";1643;37
+"Wyoming";"US";6504;63
+"Wyoming";"US";1598;24
+"Wyoming";"US";8859;112
+"Wyoming";"US";8057;14
+"Wyoming";"US";4522;34
+"Wyoming";"US";0;0
+"Wyoming";"US";1962;41
+"Wyoming";"US";1291;16
+"Uganda";"Uganda";157754;3394
+"Cherkasy Oblast";"Ukraine";131439;2707
+"Chernihiv Oblast";"Ukraine";96843;2525
+"Chernivtsi Oblast";"Ukraine";121842;3047
+"Crimea Republic*";"Ukraine";128141;4568
+"Dnipropetrovsk Oblast";"Ukraine";244936;9022
+"Donetsk Oblast";"Ukraine";170540;5214
+"Ivano-Frankivsk Oblast";"Ukraine";132889;3160
+"Kharkiv Oblast";"Ukraine";248216;6468
+"Kherson Oblast";"Ukraine";79885;2721
+"Khmelnytskyi Oblast";"Ukraine";149920;3410
+"Kiev";"Ukraine";344343;8354
+"Kiev Oblast";"Ukraine";188906;4776
+"Kirovohrad Oblast";"Ukraine";33892;1588
+"Luhansk Oblast";"Ukraine";60726;2234
+"Lviv Oblast";"Ukraine";226259;6094
+"Mykolaiv Oblast";"Ukraine";116943;3348
+"Odessa Oblast";"Ukraine";243982;5637
+"Poltava Oblast";"Ukraine";143960;3863
+"Rivne Oblast";"Ukraine";129706;2312
+"Sevastopol*";"Ukraine";53730;1900
+"Sumy Oblast";"Ukraine";134648;2903
+"Ternopil Oblast";"Ukraine";110358;2170
+"Vinnytsia Oblast";"Ukraine";116087;3233
+"Volyn Oblast";"Ukraine";104816;2216
+"Zakarpattia Oblast";"Ukraine";90260;2473
+"Zaporizhia Oblast";"Ukraine";183847;5425
+"Zhytomyr Oblast";"Ukraine";142836;3295
+"United Arab Emirates";"United Arab Emirates";802181;2188
+"Anguilla";"United Kingdom";2040;6
+"Bermuda";"United Kingdom";8541;110
+"British Virgin Islands";"United Kingdom";5255;42
+"Cayman Islands";"United Kingdom";11666;15
+"Channel Islands";"United Kingdom";35903;122
+"England";"United Kingdom";12840532;132122
+"Falkland Islands (Malvinas)";"United Kingdom";85;0
+"Gibraltar";"United Kingdom";10725;100
+"Isle of Man";"United Kingdom";19686;70
+"Montserrat";"United Kingdom";129;1
+"Northern Ireland";"United Kingdom";477814;3035
+"Saint Helena, Ascension and Tristan da Cunha";"United Kingdom";4;0
+"Scotland";"United Kingdom";1090165;10059
+"Turks and Caicos Islands";"United Kingdom";5025;30
+"Wales";"United Kingdom";738609;6683
+"Uruguay";"Uruguay";500267;6225
+"Uzbekistan";"Uzbekistan";204173;1513
+"Vanuatu";"Vanuatu";7;1
+"Venezuela";"Venezuela";452430;5376
+"Vietnam";"Vietnam";2007862;35480
+"Yemen";"Yemen";10233;1988
+"Zambia";"Zambia";295028;3852
+"Zimbabwe";"Zimbabwe";225637;5238
