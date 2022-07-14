@@ -1,2 +1,2 @@
 # R-TryOut
-Rumprobieren mit R
+Rumprobieren mit Programmiersprache für statistische Berechnungen und Grafiken "R".
